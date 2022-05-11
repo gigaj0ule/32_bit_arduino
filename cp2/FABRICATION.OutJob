@@ -36,7 +36,7 @@ OutputMedium4_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
-OutputDocumentPath1=SNAP_F405R.PcbDoc
+OutputDocumentPath1=CPU.2.PcbDoc
 OutputVariantName1=
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
@@ -49,7 +49,7 @@ Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType2=BOM_PartType
 OutputName2=Bill of Materials
 OutputCategory2=Report
-OutputDocumentPath2=SNAP_F405R.SchDoc
+OutputDocumentPath2=CPU.2.SchDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -75,7 +75,7 @@ Configuration2_Item7=Comment=100|Description=100|Designator=100|Footprint=100|LC
 OutputType3=NC Drill
 OutputName3=NC Drill Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=SNAP_F405R.PcbDoc
+OutputDocumentPath3=CPU.2.PcbDoc
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
@@ -88,7 +88,7 @@ Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType4=Pick Place
 OutputName4=Generates pick and place files
 OutputCategory4=Assembly
-OutputDocumentPath4=SNAP_F405R.PcbDoc
+OutputDocumentPath4=CPU.2.PcbDoc
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -102,7 +102,7 @@ Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for lightbrush
+OutputBasePath2=Project Outputs for CPU.2
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -127,9 +127,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\bitsnap_snaps\pcba\snaps\lightbrush\Project Outputs for lightbrush\
+OutputFilePath3=C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\github\cp2\cp2\Project Outputs for CPU.2\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for lightbrush
+OutputBasePath3=Project Outputs for CPU.2
 OutputPathMedia3=
 OutputPathMediaValue3==VariantName
 OutputPathOutputer3=
@@ -142,7 +142,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=C:\shared\nextcloud\Projects\_source_codes\bitsnap\bitsnap_snaps\sources\pcba\f103\Project Outputs for SNAP_F103\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for lightbrush
+OutputBasePath4=Project Outputs for CPU.2
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=
@@ -157,7 +157,7 @@ OpenOutput4=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\bitsnap_snaps\pcba\snaps\lightbrush\Project Outputs for lightbrush\
+RelativeOutputPath3=C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\github\cp2\cp2\Project Outputs for CPU.2\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
