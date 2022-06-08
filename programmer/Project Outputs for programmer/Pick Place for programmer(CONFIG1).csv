@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\github\cp2\programmer\Project Outputs for programmer\Pick Place for programmer(CONFIG1).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/05/22
+Time:       00:01
+Revision:   Not in VersionControl
+Variant:    CONFIG1
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","JLC Availability","LCSC Part #","Value"
+"CC2C","0402WGF0000TCE","TopLayer","R_0402","123.8000","44.0000","360","R - RESISTOR - SMD - 0R - 1% - 0402","123.8000","44.0000","123.2920","44.0000","Basic","C17168","0R"
+"CC1C","0402WGF0000TCE","TopLayer","R_0402","123.8000","42.1000","360","R - RESISTOR - SMD - 0R - 1% - 0402","123.8000","42.1000","123.2920","42.1000","Basic","C17168","0R"
+"CC1B","0402WGF0000TCE","TopLayer","R_0402","121.6000","45.0000","360","R - RESISTOR - SMD - 0R - 1% - 0402","121.6000","45.0000","121.0920","45.0000","Basic","C17168","0R"
+"CC1A","0402WGF0000TCE","TopLayer","R_0402","121.6000","42.1000","360","R - RESISTOR - SMD - 0R - 1% - 0402","121.6000","42.1000","121.0920","42.1000","Basic","C17168","0R"
+"J2","918-418K2023S40001","TopLayer","DX07S016JA1R1500","131.4215","43.0460","90","J - JACK - USB - Type C - Recepticle - SMT - 90°","132.6000","43.0410","129.3030","39.9410","LCSC","C167321",""
+"J1","918-418K2023S40001","TopLayer","DX07S016JA1R1500","116.5785","43.0360","270","J - JACK - USB - Type C - Recepticle - SMT - 90°","115.4000","43.0410","118.6970","46.1410","LCSC","C167321",""
