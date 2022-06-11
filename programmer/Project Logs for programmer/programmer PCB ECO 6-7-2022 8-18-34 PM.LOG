@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CC1_OUT Pin=CC1D-1
+Removed Pin From Net: NetName=SBU1 Pin=CC1D-2
+Removed Pin From Net: NetName=CC2_OUT Pin=CC2C-1
+Removed Pin From Net: NetName=CC2_OUT Pin=CC2E-1
+Removed Pin From Net: NetName=SBU1 Pin=CC2E-2
+Removed Member From Class: ClassName=programmer Member=CC1D
+Removed Member From Class: ClassName=programmer Member=CC2C
+Removed Member From Class: ClassName=programmer Member=CC2E
+Change Net Name : Old Net Name=SBU2 New Net Name=CLK
+Added Pin To Net: NetName=DIO Pin=J2-B5
+Added Net: Name=DIO

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CC1_OUT Pin=CC1E-1
+Removed Pin From Net: NetName=CLK Pin=CC1E-2
+Removed Member From Class: ClassName=programmer Member=CC1E
