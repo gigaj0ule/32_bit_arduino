@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TD- Pin=Jeth-2
+Removed Pin From Net: NetName=GND Pin=Rcpu_f-1
+Removed Pin From Net: NetName=TD- Pin=Ta-14
+Added Pin To Net: NetName=TD- Pin=Rcpu_f-1
+Change Net Name : Old Net Name=TD- New Net Name=VCC_5V_SW
+Added Pin To Net: NetName=TD- Pin=Jeth-2
+Added Pin To Net: NetName=TD- Pin=Ta-14
+Added Net: Name=TD-

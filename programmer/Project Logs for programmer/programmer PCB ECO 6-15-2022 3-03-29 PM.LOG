@@ -1,0 +1,10 @@
+Added Component: Designator=J_PROG(HDR_FEM_2X5P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C125068"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIO Pin=J_PROG-4
+Added Pin To Net: NetName=GND Pin=J_PROG-5
+Added Pin To Net: NetName=GND Pin=J_PROG-6
+Added Pin To Net: NetName=CK Pin=J_PROG-2
+Added Net: Name=CK
+Added Member To Class: ClassName=programmer Member=Component J_PROG DS1023-2*5SF11

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=Jeth-9
+Removed Pin From Net: NetName=eth_yled Pin=Jeth-10
+Removed Pin From Net: NetName=GND Pin=Jeth-11
+Removed Pin From Net: NetName=eth_gled Pin=Jeth-12
+Added Pin To Net: NetName=eth_yled Pin=Jeth-9
+Added Pin To Net: NetName=VCC_3V3 Pin=Jeth-10
+Added Pin To Net: NetName=eth_gled Pin=Jeth-11
+Added Pin To Net: NetName=VCC_3V3 Pin=Jeth-12

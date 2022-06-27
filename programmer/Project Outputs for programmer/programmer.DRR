@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: programmer.PcbDoc   5/24/2022  12:01:25 AM
+NCDrill File Report For: programmer.PcbDoc   6/15/2022  3:30:03 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,11 +8,11 @@ ASCII SlotHoles File : programmer-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.254mm (10mil)                                           Round             13        PTH        0.00mm (0.00inch)
+T1      0.254mm (10mil)                                           Round             8         PTH        0.00mm (0.00inch)
 T2      0.55mm (22mil)                                            Slot              8         PTH        0.00mm (0.00inch)
-T3      0.9mm (35mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T3      0.9mm (35mil)                                             Round             13        PTH        0.00mm (0.00inch)
 T4      0.65mm (26mil)                                            Round             4         NPTH       0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              31
+Totals                                                                              33
 
 Total Processing Time (hh:mm:ss) : 00:00:00

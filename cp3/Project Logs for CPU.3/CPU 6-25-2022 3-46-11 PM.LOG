@@ -1,0 +1,148 @@
+Added Component: Designator=Cta_e(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C9196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "2000"; VariantName = "[No Variations]"
+Added Component: Designator=Cta_f(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C9196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "2000"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_a(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_b(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_c(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_d(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_e(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_f(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_g(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dta_h(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Jeth(TE_2-406549-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C125068"; VariantName = "[No Variations]"
+Added Component: Designator=Rta_i(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75R"; VariantName = "[No Variations]"
+Added Component: Designator=Rta_j(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "75R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=eth_AVSS Pin=Cta_e-1
+Added Pin To Net: NetName=eth_AVSS Pin=Cta_f-1
+Added Pin To Net: NetName=TD+ Pin=Jeth-1
+Added Pin To Net: NetName=TD- Pin=Jeth-2
+Added Pin To Net: NetName=RD+ Pin=Jeth-3
+Added Pin To Net: NetName=RD- Pin=Jeth-6
+Added Pin To Net: NetName=GND Pin=Jeth-9
+Added Pin To Net: NetName=GND Pin=Jeth-11
+Added Pin To Net: NetName=eth_gled Pin=Jeth-12
+Added Pin To Net: NetName=eth_gled Pin=Reth0_25-2
+Added Net: Name=eth_gled
+Added Pin To Net: NetName=eth_poe_a Pin=Dta_b-1
+Added Pin To Net: NetName=eth_poe_a Pin=Dta_d-2
+Added Pin To Net: NetName=eth_poe_a Pin=Jeth-4
+Added Pin To Net: NetName=eth_poe_a Pin=Jeth-5
+Added Net: Name=eth_poe_a
+Added Pin To Net: NetName=eth_poe_b Pin=Dta_f-2
+Added Pin To Net: NetName=eth_poe_b Pin=Dta_h-1
+Added Pin To Net: NetName=eth_poe_b Pin=Jeth-7
+Added Pin To Net: NetName=eth_poe_b Pin=Jeth-8
+Added Net: Name=eth_poe_b
+Added Pin To Net: NetName=eth_V+ Pin=Dta_c-1
+Added Pin To Net: NetName=eth_V+ Pin=Dta_d-1
+Added Pin To Net: NetName=eth_V+ Pin=Dta_e-1
+Added Pin To Net: NetName=eth_V+ Pin=Dta_f-1
+Added Net: Name=eth_V+
+Added Pin To Net: NetName=eth_V- Pin=Dta_a-2
+Added Pin To Net: NetName=eth_V- Pin=Dta_b-2
+Added Pin To Net: NetName=eth_V- Pin=Dta_g-2
+Added Pin To Net: NetName=eth_V- Pin=Dta_h-2
+Added Net: Name=eth_V-
+Added Pin To Net: NetName=eth_yled Pin=Jeth-10
+Added Pin To Net: NetName=eth_yled Pin=Reth0_27-2
+Added Net: Name=eth_yled
+Added Pin To Net: NetName=NetCta_e_2 Pin=Cta_e-2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Rta_j-1
+Added Net: Name=NetCta_e_2
+Added Pin To Net: NetName=NetCta_f_2 Pin=Cta_f-2
+Added Pin To Net: NetName=NetCta_f_2 Pin=Rta_i-1
+Added Net: Name=NetCta_f_2
+Added Pin To Net: NetName=NetDta_a_1 Pin=Dta_a-1
+Added Pin To Net: NetName=NetDta_a_1 Pin=Dta_c-2
+Added Pin To Net: NetName=NetDta_a_1 Pin=Rta_i-2
+Added Pin To Net: NetName=NetDta_a_1 Pin=Ta-15
+Added Net: Name=NetDta_a_1
+Added Pin To Net: NetName=NetDta_e_2 Pin=Dta_e-2
+Added Pin To Net: NetName=NetDta_e_2 Pin=Dta_g-1
+Added Pin To Net: NetName=NetDta_e_2 Pin=Rta_j-2
+Added Pin To Net: NetName=NetDta_e_2 Pin=Ta-10
+Added Net: Name=NetDta_e_2
+Added Pin To Net: NetName=NetJeth_S1 Pin=Jeth-S1
+Added Pin To Net: NetName=NetJeth_S1 Pin=Jeth-S2
+Added Net: Name=NetJeth_S1
+Added Member To Class: ClassName=CPU.3 Member=Component Cta_e 1206B102K202NT
+Added Member To Class: ClassName=CPU.3 Member=Component Cta_f 1206B102K202NT
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_a 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_b 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_c 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_d 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_e 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_f 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_g 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Dta_h 1N5819WS
+Added Member To Class: ClassName=CPU.3 Member=Component Jeth 2-406549-1
+Added Member To Class: ClassName=CPU.3 Member=Component Rta_i 0402WGF750JTCE
+Added Member To Class: ClassName=CPU.3 Member=Component Rta_j 0402WGF750JTCE

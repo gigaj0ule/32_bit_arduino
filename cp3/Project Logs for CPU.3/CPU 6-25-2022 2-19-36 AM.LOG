@@ -1,0 +1,26 @@
+Added Component: Designator=eth_NTa(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=eth_NTb(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=eth_NTc(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=^PB13_SCK2 Pin=eth_NTa-1
+Added Pin To Net: NetName=^PB14_MISO2 Pin=eth_NTb-1
+Added Pin To Net: NetName=^PB15_MOSI2 Pin=eth_NTc-1
+Change Net Name : Old Net Name=CSn New Net Name=eth_CSn
+Added Pin To Net: NetName=eth_MISO Pin=eth_NTb-2
+Added Pin To Net: NetName=eth_MISO Pin=Ueth0-34
+Added Net: Name=eth_MISO
+Added Pin To Net: NetName=eth_MOSI Pin=eth_NTc-2
+Added Pin To Net: NetName=eth_MOSI Pin=Ueth0-35
+Added Net: Name=eth_MOSI
+Added Pin To Net: NetName=eth_SCK Pin=eth_NTa-2
+Added Pin To Net: NetName=eth_SCK Pin=Ueth0-33
+Added Net: Name=eth_SCK
+Added Pin To Net: NetName=RD+ Pin=Ta-11
+Added Net: Name=RD+
+Added Pin To Net: NetName=RD- Pin=Ta-9
+Added Net: Name=RD-
+Added Member To Class: ClassName=CPU.3 Member=Component eth_NTa 0
+Added Member To Class: ClassName=CPU.3 Member=Component eth_NTb 0
+Added Member To Class: ClassName=CPU.3 Member=Component eth_NTc 0

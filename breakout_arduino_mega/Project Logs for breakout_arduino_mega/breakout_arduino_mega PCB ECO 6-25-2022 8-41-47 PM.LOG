@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=U? Old DesignItemId=BITSNAP_GF_B New DesignItemId=POWERNET_MAC
+Change Component Footprint: Designator=U? Old Footprint=BITSNAP_CPU_NGFF_B New Footprint=POWERNET-MAC
+Change Class Name : Old Net Name=v0 New Net Name=breakout_arduino_mega
+Added Member To Class: ClassName=breakout_arduino_mega Member=Component J6 HEADER_6P2_MALE_TH
+Added Room: Name=breakout_arduino_mega

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R6 Old Footprint=NET_TIE New Footprint=R_0402
+Change Component Comment : Designator=R6 Old Comment=0 New Comment=0402WGF0000TCE
+Change Component Comment : Designator=R10 Old Comment=0402WGF1000TCE New Comment=0402WGF3301TCE
+Change component parameters: Designator = "R10"; Footprint = "R_0402"; UniqueID = "\VTGHOESD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25890"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R_0402"; UniqueID = "\QTQCFAVY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"

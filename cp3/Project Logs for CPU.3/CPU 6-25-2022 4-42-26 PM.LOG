@@ -1,0 +1,8 @@
+Added Component: Designator=Yeth(X322512MSB4SI)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C9006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=eth_xo Pin=Yeth-1
+Added Pin To Net: NetName=eth_xi Pin=Yeth-3
+Added Member To Class: ClassName=CPU.3 Member=Component Yeth X322525MOB4SI

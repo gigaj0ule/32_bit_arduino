@@ -1,0 +1,169 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C11
+Added Component: Designator=Ceth0_8(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_11(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_15(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_17(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_20(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_21(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_22(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_281(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_282(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=Reth0_10(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12k"; VariantName = "[No Variations]"
+Added Component: Designator=Reth0_25(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25091"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=Reth0_27(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25091"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=Reth0_31(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C26083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP-48-P0.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C32843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WIZnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W5500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/W5500/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W5500/WIZnet/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Ceth0_281-1
+Added Pin To Net: NetName=VCC_3V3 Pin=Ceth0_281-2
+Added Pin To Net: NetName=VCC_3V3 Pin=Ceth0_282-1
+Added Pin To Net: NetName=GND Pin=Ceth0_282-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-28
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_8-1
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_11-1
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_15-1
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_17-1
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_20-2
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_21-1
+Added Pin To Net: NetName=AGND1 Pin=Ceth0_22-1
+Added Pin To Net: NetName=AGND1 Pin=Reth0_10-1
+Added Pin To Net: NetName=AGND1 Pin=U?-3
+Added Pin To Net: NetName=AGND1 Pin=U?-9
+Added Pin To Net: NetName=AGND1 Pin=U?-14
+Added Pin To Net: NetName=AGND1 Pin=U?-16
+Added Pin To Net: NetName=AGND1 Pin=U?-19
+Added Pin To Net: NetName=AGND1 Pin=U?-48
+Added Net: Name=AGND1
+Added Pin To Net: NetName=AVDD Pin=Ceth0_8-2
+Added Pin To Net: NetName=AVDD Pin=Ceth0_11-2
+Added Pin To Net: NetName=AVDD Pin=Ceth0_15-2
+Added Pin To Net: NetName=AVDD Pin=Ceth0_17-2
+Added Pin To Net: NetName=AVDD Pin=Ceth0_21-2
+Added Pin To Net: NetName=AVDD Pin=U?-4
+Added Pin To Net: NetName=AVDD Pin=U?-8
+Added Pin To Net: NetName=AVDD Pin=U?-11
+Added Pin To Net: NetName=AVDD Pin=U?-15
+Added Pin To Net: NetName=AVDD Pin=U?-17
+Added Pin To Net: NetName=AVDD Pin=U?-21
+Added Net: Name=AVDD
+Added Pin To Net: NetName=eth0_xi Pin=Reth0_31-1
+Added Pin To Net: NetName=eth0_xi Pin=U?-30
+Added Net: Name=eth0_xi
+Added Pin To Net: NetName=eth0_xo Pin=Reth0_31-2
+Added Pin To Net: NetName=eth0_xo Pin=U?-31
+Added Net: Name=eth0_xo
+Added Pin To Net: NetName=GREENLED Pin=Reth0_25-2
+Added Net: Name=GREENLED
+Added Pin To Net: NetName=NetCeth0_20_1 Pin=Ceth0_20-1
+Added Pin To Net: NetName=NetCeth0_20_1 Pin=U?-20
+Added Net: Name=NetCeth0_20_1
+Added Pin To Net: NetName=NetCeth0_22_2 Pin=Ceth0_22-2
+Added Pin To Net: NetName=NetCeth0_22_2 Pin=U?-22
+Added Net: Name=NetCeth0_22_2
+Added Pin To Net: NetName=NetReth0_10_2 Pin=Reth0_10-2
+Added Pin To Net: NetName=NetReth0_10_2 Pin=U?-10
+Added Net: Name=NetReth0_10_2
+Added Pin To Net: NetName=NetReth0_25_1 Pin=Reth0_25-1
+Added Pin To Net: NetName=NetReth0_25_1 Pin=U?-25
+Added Net: Name=NetReth0_25_1
+Added Pin To Net: NetName=NetReth0_27_1 Pin=Reth0_27-1
+Added Pin To Net: NetName=NetReth0_27_1 Pin=U?-27
+Added Net: Name=NetReth0_27_1
+Added Pin To Net: NetName=RX+ Pin=U?-6
+Added Net: Name=RX+
+Added Pin To Net: NetName=RX- Pin=U?-5
+Added Net: Name=RX-
+Added Pin To Net: NetName=TX+ Pin=U?-2
+Added Net: Name=TX+
+Added Pin To Net: NetName=TX- Pin=U?-1
+Added Net: Name=TX-
+Added Pin To Net: NetName=YELLOWLED Pin=Reth0_27-2
+Added Net: Name=YELLOWLED
+Change Class Name : Old Net Name=SNAP_F405R New Net Name=CPU.3
+Added Member To Class: ClassName=CPU.3 Member=Component C11 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_8 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_11 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_15 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_17 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_20 CL05A106MQ5NUNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_21 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_22 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_281 CL05B104KO5NNNC
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_282 CL05A106MQ5NUNC
+Added Member To Class: ClassName=CPU.3 Member=Component Reth0_10 0402WGF1202TCE
+Added Member To Class: ClassName=CPU.3 Member=Component Reth0_25 0402WGF2200TCE
+Added Member To Class: ClassName=CPU.3 Member=Component Reth0_27 0402WGF2200TCE
+Added Member To Class: ClassName=CPU.3 Member=Component Reth0_31 0402WGF1004TCE
+Added Member To Class: ClassName=CPU.3 Member=Component U? GD32F103CBT6
+Added Room: Name=CPU.3

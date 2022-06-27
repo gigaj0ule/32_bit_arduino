@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=eth_TX- Pin=Ueth0-1
+Added Pin To Net: NetName=eth_TX+ Pin=Ueth0-2
+Added Pin To Net: NetName=eth_RX- Pin=Ueth0-5
+Added Pin To Net: NetName=eth_RX+ Pin=Ueth0-6
+Change Net Name : Old Net Name=AGND1 New Net Name=eth_AVSS
+Change Net Name : Old Net Name=eth0_xi New Net Name=eth_xi
+Change Net Name : Old Net Name=eth0_xo New Net Name=eth_xo
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_15 CL05B104KO5NNNC
