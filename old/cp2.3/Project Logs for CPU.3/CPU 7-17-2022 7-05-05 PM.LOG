@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetCta_e_2 Pin=Cta_e-2
+Removed Pin From Net: NetName=^PB12_SS2 Pin=eth_NTd-1
+Removed Pin From Net: NetName=eth_CSn Pin=eth_NTd-2
+Removed Pin From Net: NetName=NetCta_e_2 Pin=Rta_i-2
+Removed Pin From Net: NetName=NetCta_e_2 Pin=Rta_j-2
+Removed Member From Class: ClassName=CPU.3 Member=eth_NTd
+Change Component Comment : Designator=Rta_a Old Comment=0402WGF499JTCE New Comment=0402WGF5100TCE
+Change Component Comment : Designator=Rta_b Old Comment=0402WGF499JTCE New Comment=0402WGF5100TCE
+Change component parameters: Designator = "Rta_a"; Footprint = "R_0402"; UniqueID = "\SURBVTRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "51R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_b"; Footprint = "R_0402"; UniqueID = "\GLJTILHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "51R"; VariantName = "[No Variations]"
+Added Component: Designator=Cta_f(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C9196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "2000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=eth_AVSS Pin=Cta_f-1
+Change Net Name : Old Net Name=NetCta_e_2 New Net Name=NetDta_e_2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Cta_e-2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Rta_j-1
+Added Net: Name=NetCta_e_2
+Added Pin To Net: NetName=NetCta_f_2 Pin=Cta_f-2
+Added Pin To Net: NetName=NetCta_f_2 Pin=Rta_i-1
+Added Net: Name=NetCta_f_2
+Added Pin To Net: NetName=NetRta_i_2 Pin=Rta_i-2
+Added Pin To Net: NetName=NetRta_i_2 Pin=Ta-15
+Added Net: Name=NetRta_i_2
+Added Pin To Net: NetName=NetRta_j_2 Pin=Rta_j-2
+Added Pin To Net: NetName=NetRta_j_2 Pin=Ta-10
+Added Net: Name=NetRta_j_2
+Added Member To Class: ClassName=CPU.3 Member=Component Cta_f 1206B102K202NT

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=TD+ Pin=Jeth-1
+Removed Pin From Net: NetName=TD- Pin=Jeth-2
+Removed Pin From Net: NetName=RD+ Pin=Jeth-3
+Removed Pin From Net: NetName=RD- Pin=Jeth-6
+Removed Pin From Net: NetName=eth_poe_b Pin=Jeth-7
+Removed Pin From Net: NetName=eth_poe_b Pin=Jeth-8
+Added Pin To Net: NetName=eth_poe_b Pin=Jeth-1
+Added Pin To Net: NetName=eth_poe_b Pin=Jeth-2
+Added Pin To Net: NetName=RD- Pin=Jeth-3
+Added Pin To Net: NetName=RD+ Pin=Jeth-6
+Added Pin To Net: NetName=TD- Pin=Jeth-7
+Added Pin To Net: NetName=TD+ Pin=Jeth-8

@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : C:\git\cp2\cp3\CPU.3.PcbDoc
+Date     : 8/5/2022
+Time     : 4:17:17 PM
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+   Violation between Clearance Constraint: (0.148mm < 0.15mm) Between Area Fill (23.1mm,29.4mm) (52mm,29.7mm) on Top Layer And Track (21.503mm,32.5mm)(24.056mm,29.948mm) on Top Layer 
+   Violation between Clearance Constraint: (0.148mm < 0.15mm) Between Area Fill (23.1mm,29.4mm) (52mm,29.7mm) on Top Layer And Track (24.056mm,29.948mm)(39.548mm,29.948mm) on Top Layer 
+   Violation between Clearance Constraint: (0.148mm < 0.15mm) Between Area Fill (23.1mm,29.4mm) (52mm,29.7mm) on Top Layer And Track (39.548mm,29.948mm)(39.648mm,29.948mm) on Top Layer 
+   Violation between Clearance Constraint: (0.148mm < 0.15mm) Between Area Fill (23.1mm,29.4mm) (52mm,29.7mm) on Top Layer And Track (39.648mm,29.948mm)(41.694mm,31.994mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (60.1mm,32mm) (60.5mm,32.6mm) on Top Layer And Pad eth_NTb-2(60.1mm,32.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.1mm,32mm) (60.5mm,32.6mm) on Top Layer And Track (59.225mm,32.35mm)(60.05mm,32.35mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Pad eth_NTa?-2(60.1mm,33.5mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Track (59.225mm,33.35mm)(60.05mm,33.35mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Track (60.05mm,33.35mm)(60.1mm,33.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Pad eth_NTc-2(60.9mm,31.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Track (59.9mm,31.7mm)(60.8mm,31.7mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Track (60.8mm,31.7mm)(60.9mm,31.6mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (60.9mm,32.7mm) (61.3mm,33.3mm) on Top Layer And Pad eth_NTa-2(60.9mm,33mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (60.9mm,32.7mm) (61.3mm,33.3mm) on Top Layer And Track (59.225mm,32.85mm)(60.85mm,32.85mm) on Top Layer 
+   Violation between Clearance Constraint: (0.075mm < 0.1mm) Between Area Fill (60.9mm,44.2mm) (61.3mm,46.7mm) on Top Layer And Pad J4-M(61.7mm,44.9mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (61.3mm,41.2mm) (61.7mm,41.8mm) on Top Layer And Pad NTeth_a-1(61.5mm,41.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (61.3mm,41.2mm) (61.7mm,41.8mm) on Top Layer And Track (61.5mm,40.7mm)(61.5mm,41.3mm) on Top Layer 
+Rule Violations :17
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Area Fill (60.1mm,32mm) (60.5mm,32.6mm) on Top Layer And Pad eth_NTb-2(60.1mm,32.3mm) on Top Layer Location : [X = 60.15mm][Y = 32.3mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.1mm,32mm) (60.5mm,32.6mm) on Top Layer And Track (59.225mm,32.35mm)(60.05mm,32.35mm) on Top Layer Location : [X = 60.126mm][Y = 32.35mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Pad eth_NTa?-2(60.1mm,33.5mm) on Top Layer Location : [X = 60.15mm][Y = 33.5mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Track (59.225mm,33.35mm)(60.05mm,33.35mm) on Top Layer Location : [X = 60.126mm][Y = 33.35mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.1mm,33.2mm) (60.5mm,33.8mm) on Top Layer And Track (60.05mm,33.35mm)(60.1mm,33.3mm) on Top Layer Location : [X = 60.151mm][Y = 33.318mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Pad eth_NTc-2(60.9mm,31.7mm) on Top Layer Location : [X = 60.95mm][Y = 31.7mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Track (59.9mm,31.7mm)(60.8mm,31.7mm) on Top Layer Location : [X = 60.901mm][Y = 31.7mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.9mm,31.4mm) (61.3mm,32mm) on Top Layer And Track (60.8mm,31.7mm)(60.9mm,31.6mm) on Top Layer Location : [X = 60.951mm][Y = 31.621mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.9mm,32.7mm) (61.3mm,33.3mm) on Top Layer And Pad eth_NTa-2(60.9mm,33mm) on Top Layer Location : [X = 60.95mm][Y = 33mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (60.9mm,32.7mm) (61.3mm,33.3mm) on Top Layer And Track (59.225mm,32.85mm)(60.85mm,32.85mm) on Top Layer Location : [X = 60.926mm][Y = 32.85mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (61.3mm,41.2mm) (61.7mm,41.8mm) on Top Layer And Pad NTeth_a-1(61.5mm,41.3mm) on Top Layer Location : [X = 61.5mm][Y = 41.35mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (61.3mm,41.2mm) (61.7mm,41.8mm) on Top Layer And Track (61.5mm,40.7mm)(61.5mm,41.3mm) on Top Layer Location : [X = 61.5mm][Y = 41.351mm]
+Rule Violations :12
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetD_CPU_A_1 Between Pad SW-2(24.35mm,33.75mm) on Top Layer And Pad SW-2(24.35mm,39.65mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ^PB2_BOOT1 Between Track (28mm,39.3mm)(28.05mm,39.25mm) on Top Layer And Track (28.1mm,32.8mm)(28.1mm,33.6mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=1mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 31
+Waived Violations : 0
+Time Elapsed        : 00:00:01

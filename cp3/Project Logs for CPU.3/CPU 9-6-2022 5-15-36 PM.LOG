@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CPU_5_V Pin=CPU_C_V_V_A-1
+Added Pin To Net: NetName=CPU_5_V Pin=CPU_C_V_V_B-1
+Added Pin To Net: NetName=CPU_5_V Pin=CPU_C_V_V_C-1

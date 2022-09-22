@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetCta_d_1 Pin=Rta_f-1
+Removed Pin From Net: NetName=NetCta_d_1 Pin=Rta_h-1
+Removed Member From Class: ClassName=CPU.3 Member=Rta_f
+Removed Member From Class: ClassName=CPU.3 Member=Rta_h
+Added Pin To Net: NetName=NetCta_d_1 Pin=Rta_e-1
+Added Pin To Net: NetName=NetCta_d_1 Pin=Rta_g-1

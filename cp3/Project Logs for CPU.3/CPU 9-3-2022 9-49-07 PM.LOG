@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=CPU_V_ISO_C-1
+Removed Member From Class: ClassName=CPU.3 Member=CPU_V_ISO_C

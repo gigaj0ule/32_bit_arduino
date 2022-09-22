@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=U? Old DesignItemId=AP2127K-3.3TRG1 New DesignItemId=24LC16BT-I/SN
+Change Component Comment : Designator=U? Old Comment=* New Comment=24LC16BT-I/SN
+Change Component Designator: OldDesignator=U? NewDesignator=MCU_U_G
+Change Component Library : Designator=MCU_U_G Old Library=* New Library=JLC_PCB.SchLib
+Change component parameters: Designator = "MCU_U_G"; Footprint = "SOIC-8-P1.27-W3.5"; UniqueID = "\MRIIAJBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C5456"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage"; Value = "16K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_G-1
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_G-2
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_G-3
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_G-4
+Added Pin To Net: NetName=MCU_PB7 Pin=MCU_U_G-5
+Added Pin To Net: NetName=MCU_PB6 Pin=MCU_U_G-6
+Added Pin To Net: NetName=MCU_3V3 Pin=MCU_U_G-8

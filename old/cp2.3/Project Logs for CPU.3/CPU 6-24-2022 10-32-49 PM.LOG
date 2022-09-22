@@ -1,0 +1,22 @@
+Added Component: Designator=Reth0_37(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=Reth0_37-1
+Added Pin To Net: NetName=CSn Pin=U?-32
+Added Net: Name=CSn
+Added Pin To Net: NetName=eth0_intn Pin=U?-36
+Added Net: Name=eth0_intn
+Added Pin To Net: NetName=MISO Pin=U?-34
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U?-35
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetReth0_37_2 Pin=Reth0_37-2
+Added Pin To Net: NetName=NetReth0_37_2 Pin=U?-37
+Added Net: Name=NetReth0_37_2
+Added Pin To Net: NetName=SCK Pin=U?-33
+Added Net: Name=SCK
+Added Member To Class: ClassName=CPU.3 Member=Component Reth0_37 0402WGF1002TCE
+Added Member To Class: ClassName=CPU.3 Member=Component U? GD32F103CBT6
+Added Room: Name=CPU.3

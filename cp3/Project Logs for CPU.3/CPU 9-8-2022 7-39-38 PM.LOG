@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MCU_ETH_RXN Pin=MCU_ETH_C_R-1
+Removed Pin From Net: NetName=MCU_ETH_RXN Pin=MCU_ETH_R_O-2
+Removed Pin From Net: NetName=MCU_ETH_RXN Pin=MCU_U_E-6
+Added Pin To Net: NetName=MCU_ETH_RXP Pin=MCU_ETH_C_R-1
+Added Pin To Net: NetName=MCU_ETH_RXP Pin=MCU_ETH_R_O-2
+Added Pin To Net: NetName=MCU_ETH_RXP Pin=MCU_U_E-6
+Added Net: Name=MCU_ETH_RXP

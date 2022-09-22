@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CPU.2.PcbDoc]
+   Generated File[CPU.2-RoundHoles.TXT]
+   Generated File[CPU.2-SlotHoles.TXT]
+   Generated File[CPU.2.LDP]
+   Generated File[CPU.2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:32:37 PM On 5/5/2022

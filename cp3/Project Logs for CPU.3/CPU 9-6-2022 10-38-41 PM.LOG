@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MCU_BUTTON_OC Pin=MCU_D_B-2
+Added Component: Designator=MCU_U_F(AG9000)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOut"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_ETH_VP Pin=MCU_U_F-1
+Added Pin To Net: NetName=MCU_ETH_VN Pin=MCU_U_F-2
+Added Pin To Net: NetName=MCU_ETH_VP Pin=MCU_U_F-3
+Added Pin To Net: NetName=MCU_ETH_VN Pin=MCU_U_F-4
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_F-7
+Added Pin To Net: NetName=MCU_5V Pin=MCU_U_F-8
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_U_F AG9705-2BR

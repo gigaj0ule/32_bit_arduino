@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=eth_AVSS Pin=Cta_f-1
+Removed Member From Class: ClassName=CPU.3 Member=Cta_f
+Change Component DesignItemId : Designator=Rta_e Old DesignItemId=0402WGF470JTCE New DesignItemId=0603WAF820JT5E
+Change Component DesignItemId : Designator=Rta_g Old DesignItemId=0402WGF470JTCE New DesignItemId=0603WAF820JT5E
+Change Component DesignItemId : Designator=Rta_a Old DesignItemId=0402WGF5100TCE New DesignItemId=0402WGF499JTCE
+Change Component DesignItemId : Designator=Rta_b Old DesignItemId=0402WGF5100TCE New DesignItemId=0402WGF499JTCE
+Change Component Footprint: Designator=Rta_e Old Footprint=R_0402 New Footprint=R_0603
+Change Component Footprint: Designator=Rta_g Old Footprint=R_0402 New Footprint=R_0603
+Change Component Comment : Designator=Rta_e Old Comment=0402WGF470JTCE New Comment=0603WAF820JT5E
+Change Component Comment : Designator=Rta_g Old Comment=0402WGF470JTCE New Comment=0603WAF820JT5E
+Change Component Comment : Designator=Rta_a Old Comment=0402WGF5100TCE New Comment=0402WGF499JTCE
+Change Component Comment : Designator=Rta_b Old Comment=0402WGF5100TCE New Comment=0402WGF499JTCE
+Change Component Description : Designator=Rta_e Old Description=R - RESISTOR - SMD - 47R - 1% - 0402 New Description=R - RESISTOR - SMD - 82R - 1% - 0603
+Change Component Description : Designator=Rta_g Old Description=R - RESISTOR - SMD - 47R - 1% - 0402 New Description=R - RESISTOR - SMD - 82R - 1% - 0603
+Change Component Description : Designator=Rta_a Old Description=R - RESISTOR - SMD - 51R - 1% - 0402 New Description=R - RESISTOR - SMD - 49.9R - 1% - 0402
+Change Component Description : Designator=Rta_b Old Description=R - RESISTOR - SMD - 51R - 1% - 0402 New Description=R - RESISTOR - SMD - 49.9R - 1% - 0402
+Change component parameters: Designator = "Rta_a"; Footprint = "R_0402"; UniqueID = "\SURBVTRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_b"; Footprint = "R_0402"; UniqueID = "\GLJTILHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_e"; Footprint = "R_0603"; UniqueID = "\DLIRLYYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C23255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "82R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_g"; Footprint = "R_0603"; UniqueID = "\FTFVUIGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C23255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "82R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDta_e_2 Pin=Cta_e-2
+Added Pin To Net: NetName=NetDta_e_2 Pin=Rta_i-2
+Added Pin To Net: NetName=NetDta_e_2 Pin=Rta_j-2
+Change Net Name : Old Net Name=NetDta_e_2 New Net Name=NetCta_e_2
+Added Member To Class: ClassName=CPU.3 Member=Component eth_NTb 0

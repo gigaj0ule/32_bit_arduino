@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=CPU_LED_R-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=D_CPU_A-2
+Change Component DesignItemId : Designator=R5 Old DesignItemId=0402WGF1001TCE New DesignItemId=0402WGF0000TCE
+Change Component Comment : Designator=R5 Old Comment=0402WGF1001TCE New Comment=0402WGF0000TCE
+Change Component Description : Designator=R5 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 0R - 1% - 0402
+Change component parameters: Designator = "R5"; Footprint = "R_0402"; UniqueID = "\USLPBWWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=MCU_R_Z(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CPU_LED_R-2
+Added Pin To Net: NetName=^~PA10_RX1 Pin=eth_NTc-1
+Added Pin To Net: NetName=^~PA10_RX1 Pin=J3-27
+Added Pin To Net: NetName=VCC_3V3 Pin=MCU_R_Z-1
+Added Pin To Net: NetName=^~PA10_RX1 Pin=U?-17
+Added Pin To Net: NetName=NetD_CPU_A_2 Pin=D_CPU_A-2
+Added Pin To Net: NetName=NetD_CPU_A_2 Pin=MCU_R_Z-2
+Added Net: Name=NetD_CPU_A_2
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_Z 0402WGF4701TCE

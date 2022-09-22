@@ -4,12 +4,12 @@ C:\git\cp2\breakout_breadboard\Project Outputs for breakout_breadboard\Pick Plac
 ========================================================================================================================
 File Design Information:
 
-Date:       26/06/22
-Time:       23:28
-Revision:   Not in VersionControl
+Date:       05/08/22
+Time:       15:48
+Revision:   817dc0b6d89dc3fccd98128e23da7703481909fc
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
 "JSWD","DS1023-2*5SF11","TopLayer","HDR_FEM_2X5P","192.2700","132.1000","270","J - JACK - PIN_HEADER 2X5P","192.2700","132.1000","193.5400","137.1800"
-"U?","BITSNAP_GF_B","TopLayer","POWERNET-MAC","182.4899","132.0000","90","U - IC - Bitsnap CPU, NGFF B Key","182.7400","132.0000","186.2400","141.2500"
+"U?","BITSNAP_GF_B","TopLayer","POWERNET-MAC","141.2400","132.0000","90","U - IC - Bitsnap CPU, NGFF B Key","182.7400","132.0000","186.2400","141.2500"

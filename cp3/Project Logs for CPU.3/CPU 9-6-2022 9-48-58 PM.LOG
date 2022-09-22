@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MCU_ETH_AVDD Pin=MCU_ETH_R_K-2
+Added Pin To Net: NetName=MCU_ETH_AVDD Pin=MCU_ETH_R_L-2
+Added Pin To Net: NetName=MCU_ETH_AVDD Pin=MCU_ETH_R_M-2

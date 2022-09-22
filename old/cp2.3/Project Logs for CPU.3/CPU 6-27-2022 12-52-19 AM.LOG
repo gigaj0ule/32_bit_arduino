@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=Reth0_25 Old DesignItemId=0402WGF2200TCE New DesignItemId=0402WGF3300TCE
+Change Component DesignItemId : Designator=Reth0_27 Old DesignItemId=0402WGF2200TCE New DesignItemId=0402WGF3300TCE
+Change Component Comment : Designator=Reth0_25 Old Comment=0402WGF2200TCE New Comment=0402WGF3300TCE
+Change Component Comment : Designator=Reth0_27 Old Comment=0402WGF2200TCE New Comment=0402WGF3300TCE
+Change Component Description : Designator=Reth0_25 Old Description=R - RESISTOR - SMD - 220R - 1% - 0402 New Description=R - RESISTOR - SMD - 330R - 1% - 0402
+Change Component Description : Designator=Reth0_27 Old Description=R - RESISTOR - SMD - 220R - 1% - 0402 New Description=R - RESISTOR - SMD - 330R - 1% - 0402
+Change component parameters: Designator = "Reth0_25"; Footprint = "R_0402"; UniqueID = "\AOOPGELY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Reth0_27"; Footprint = "R_0402"; UniqueID = "\MQMXKHGI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"

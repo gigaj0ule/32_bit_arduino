@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetCta_e_2 Pin=Cta_e-2
+Removed Pin From Net: NetName=NetDta_a_1 Pin=Rta_i-2
+Removed Pin From Net: NetName=NetCta_e_2 Pin=Rta_j-1
+Removed Pin From Net: NetName=NetDta_a_1 Pin=Ta-15
+Change Net Name : Old Net Name=NetCta_e_2 New Net Name=NetDta_e_2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Cta_e-2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Cta_f-2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Rta_i-2
+Added Pin To Net: NetName=NetCta_e_2 Pin=Rta_j-2
+Added Net: Name=NetCta_e_2
+Added Pin To Net: NetName=NetRta_i_1 Pin=Rta_i-1
+Added Pin To Net: NetName=NetRta_i_1 Pin=Ta-15
+Added Net: Name=NetRta_i_1
+Added Pin To Net: NetName=NetRta_j_1 Pin=Rta_j-1
+Added Pin To Net: NetName=NetRta_j_1 Pin=Ta-10
+Added Net: Name=NetRta_j_1

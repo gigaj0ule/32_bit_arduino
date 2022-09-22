@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=^PB13_SCK2 Pin=eth_NTa-2
+Removed Pin From Net: NetName=^PB14_MISO2 Pin=eth_NTb-2
+Removed Pin From Net: NetName=^PB15_MOSI2 Pin=eth_NTc-2
+Removed Pin From Net: NetName=^PB13_SCK2 Pin=Ueth_a-33
+Removed Pin From Net: NetName=^PB14_MISO2 Pin=Ueth_a-34
+Removed Pin From Net: NetName=^PB15_MOSI2 Pin=Ueth_a-35
+Added Pin To Net: NetName=eth_SCK Pin=eth_NTa-2
+Added Pin To Net: NetName=eth_MISO Pin=eth_NTb-2
+Added Pin To Net: NetName=eth_MOSI Pin=eth_NTc-2
+Added Pin To Net: NetName=eth_SCK Pin=Ueth_a-33
+Added Pin To Net: NetName=eth_MISO Pin=Ueth_a-34
+Added Pin To Net: NetName=eth_MOSI Pin=Ueth_a-35

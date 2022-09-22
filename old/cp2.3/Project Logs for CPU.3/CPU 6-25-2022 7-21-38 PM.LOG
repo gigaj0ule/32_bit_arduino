@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=Ceth_b_a NewDesignator=Cueth_b_a
+Change Component Designator: OldDesignator=Ceth_b_b NewDesignator=Cueth_b_b
+Added Component: Designator=Cueth_b_c(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=Cueth_b_d(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cueth_b_c-1
+Added Pin To Net: NetName=VCC_5V Pin=Cueth_b_c-2
+Added Pin To Net: NetName=GND Pin=Cueth_b_d-1
+Added Pin To Net: NetName=VCC_5V Pin=Cueth_b_d-2
+Added Member To Class: ClassName=CPU.3 Member=Component Cueth_b_c CL05A106MQ5NUNC
+Added Member To Class: ClassName=CPU.3 Member=Component Cueth_b_d CL05A106MQ5NUNC

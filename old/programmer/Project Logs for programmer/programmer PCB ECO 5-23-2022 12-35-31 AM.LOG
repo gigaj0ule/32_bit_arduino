@@ -1,0 +1,16 @@
+Added Component: Designator=CC1E(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=CC2E(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CC1_OUT Pin=CC1E-1
+Added Pin To Net: NetName=SBU2 Pin=CC1E-2
+Added Pin To Net: NetName=CC2_OUT Pin=CC2E-1
+Added Pin To Net: NetName=SBU1 Pin=CC2E-2
+Added Member To Class: ClassName=programmer Member=Component CC1E 0402WGF0000TCE
+Added Member To Class: ClassName=programmer Member=Component CC2E 0402WGF0000TCE

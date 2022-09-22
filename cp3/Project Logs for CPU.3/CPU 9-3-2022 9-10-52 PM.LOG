@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=CPU_U_V_V_B-1
+Removed Pin From Net: NetName=CPU_V_ISO Pin=CPU_U_V_V_B-3
+Removed Pin From Net: NetName=CPU_V_ISO Pin=CPU_U_V_V_B-5
+Removed Pin From Net: NetName=GND Pin=CPU_V_V_FB_A-1
+Removed Pin From Net: NetName=CPU_5_V Pin=CPU_V_V_FB_B-2
+Removed Pin From Net: NetName=CPU_5_V Pin=CPU_V_V_L-2
+Removed Member From Class: ClassName=CPU.3 Member=CPU_C_V_V_E
+Removed Member From Class: ClassName=CPU.3 Member=CPU_U_V_V_B
+Removed Member From Class: ClassName=CPU.3 Member=CPU_V_V_FB_A
+Removed Member From Class: ClassName=CPU.3 Member=CPU_V_V_FB_B
+Removed Member From Class: ClassName=CPU.3 Member=CPU_V_V_L
+Change Component DesignItemId : Designator=CPU_LED_B_R Old DesignItemId=0402WGF1500TCE New DesignItemId=0402WGF2200TCE
+Change Component DesignItemId : Designator=CPU_LED_G_R Old DesignItemId=0402WGF2200TCE New DesignItemId=0402WGF3300TCE
+Change Component Comment : Designator=CPU_LED_B_R Old Comment=0402WGF1500TCE New Comment=0402WGF2200TCE
+Change Component Comment : Designator=CPU_LED_G_R Old Comment=0402WGF2200TCE New Comment=0402WGF3300TCE
+Change Component Description : Designator=CPU_LED_B_R Old Description=R - RESISTOR - SMD - 150R - 1% - 0402 New Description=R - RESISTOR - SMD - 220R - 1% - 0402
+Change Component Description : Designator=CPU_LED_G_R Old Description=R - RESISTOR - SMD - 220R - 1% - 0402 New Description=R - RESISTOR - SMD - 330R - 1% - 0402
+Change component parameters: Designator = "CPU_LED_B_R"; Footprint = "R_0402"; UniqueID = "\CFOSOUIR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CPU_LED_G_R"; Footprint = "R_0402"; UniqueID = "\BXBWBJCM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"

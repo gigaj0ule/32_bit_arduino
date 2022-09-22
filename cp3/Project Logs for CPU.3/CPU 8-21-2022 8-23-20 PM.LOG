@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=MCU_R_Y-1
+Added Pin To Net: NetName=CPU_5_V Pin=MCU_R_Y-1

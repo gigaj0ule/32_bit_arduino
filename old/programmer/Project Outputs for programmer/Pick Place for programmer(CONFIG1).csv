@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\git\cp2\programmer\Project Outputs for programmer\Pick Place for programmer(CONFIG1).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/06/22
+Time:       15:30
+Revision:   51d107f026bd1beddae8e1a1f6b6950f7c69e9c8
+Variant:    CONFIG1
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","JLC Availability","LCSC Part #","Value"
+"J_PROG","DS1023-2*5SF11","TopLayer","HDR_FEM_2X5P","124.0000","32.5000","360","J - JACK - PIN_HEADER 2X5P","124.0000","32.5000","118.9200","33.7700","Extended","C125068",""
+"CC1B","0402WGF0000TCE","TopLayer","R_0402","122.8000","45.4000","360","R - RESISTOR - SMD - 0R - 1% - 0402","122.8000","45.4000","122.2920","45.4000","Basic","C17168","0R"
+"CC1A","0402WGF0000TCE","TopLayer","R_0402","122.8000","42.0000","360","R - RESISTOR - SMD - 0R - 1% - 0402","122.8000","42.0000","122.2920","42.0000","Basic","C17168","0R"
+"J2","918-418K2023S40001","TopLayer","DX07S016JA1R1500","131.4215","43.0460","90","J - JACK - USB - Type C - Recepticle - SMT - 90°","132.6000","43.0410","129.3030","46.1410","LCSC","C167321",""
+"J1","918-418K2023S40001","TopLayer","DX07S016JA1R1500","116.5785","43.0360","270","J - JACK - USB - Type C - Recepticle - SMT - 90°","115.4000","43.0410","118.6970","39.9410","LCSC","C167321",""

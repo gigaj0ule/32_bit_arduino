@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=CC1_OUT Pin=J2-A5
+Removed Pin From Net: NetName=CC2_OUT Pin=J2-B5
+Added Component: Designator=CC1C(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=CC1D(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=CC2C(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=CC2D(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CC1_OUT Pin=CC1C-1
+Added Pin To Net: NetName=CC1_OUT Pin=CC1D-1
+Added Pin To Net: NetName=CC2_OUT Pin=CC2C-1
+Added Pin To Net: NetName=CC2_OUT Pin=CC2D-1
+Added Pin To Net: NetName=CC1 Pin=CC1C-2
+Added Pin To Net: NetName=CC1 Pin=J2-A5
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=CC2C-2
+Added Pin To Net: NetName=CC2 Pin=J2-B5
+Added Net: Name=CC2
+Added Pin To Net: NetName=SBU1 Pin=CC1D-2
+Added Pin To Net: NetName=SBU1 Pin=J2-A8
+Added Net: Name=SBU1
+Added Pin To Net: NetName=SBU2 Pin=CC2D-2
+Added Pin To Net: NetName=SBU2 Pin=J2-B8
+Added Net: Name=SBU2
+Added Member To Class: ClassName=programmer Member=Component CC1C 0402WGF0000TCE
+Added Member To Class: ClassName=programmer Member=Component CC1D 0402WGF0000TCE
+Added Member To Class: ClassName=programmer Member=Component CC2C 0402WGF0000TCE
+Added Member To Class: ClassName=programmer Member=Component CC2D 0402WGF0000TCE

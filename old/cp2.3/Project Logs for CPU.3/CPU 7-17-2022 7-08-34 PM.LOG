@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=Rta_a Old DesignItemId=0402WGF5100TCE New DesignItemId=0402WGF499JTCE
+Change Component DesignItemId : Designator=Rta_b Old DesignItemId=0402WGF5100TCE New DesignItemId=0402WGF499JTCE
+Change Component Comment : Designator=Rta_a Old Comment=0402WGF5100TCE New Comment=0402WGF499JTCE
+Change Component Comment : Designator=Rta_b Old Comment=0402WGF5100TCE New Comment=0402WGF499JTCE
+Change Component Description : Designator=Rta_a Old Description=R - RESISTOR - SMD - 51R - 1% - 0402 New Description=R - RESISTOR - SMD - 49.9R - 1% - 0402
+Change Component Description : Designator=Rta_b Old Description=R - RESISTOR - SMD - 51R - 1% - 0402 New Description=R - RESISTOR - SMD - 49.9R - 1% - 0402
+Change component parameters: Designator = "Rta_a"; Footprint = "R_0402"; UniqueID = "\SURBVTRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_b"; Footprint = "R_0402"; UniqueID = "\GLJTILHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49.9R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDta_a_1 Pin=Rta_i-2
+Added Pin To Net: NetName=NetDta_a_1 Pin=Ta-15

@@ -1,0 +1,6 @@
+Added Component: Designator=U?(SOIC-8-P1.27-W3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOut"; Value = "5"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CPU.3 Member=Component U? *

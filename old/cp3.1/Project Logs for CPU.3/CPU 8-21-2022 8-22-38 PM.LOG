@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=~PA7_ADC7_MOSI1 Pin=eth_NTc-2
+Removed Pin From Net: NetName=CPU_5_V Pin=J4-A4_B9
+Removed Pin From Net: NetName=CPU_5_V Pin=J4-A9_B4
+Removed Pin From Net: NetName=~PA7_ADC7_MOSI1 Pin=Ueth_a-35
+Added Component: Designator=MCU_R_Y(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=eth_MOSI Pin=eth_NTc-2
+Added Pin To Net: NetName=GND Pin=MCU_R_Y-1
+Added Pin To Net: NetName=eth_MOSI Pin=Ueth_a-35
+Added Pin To Net: NetName=USB_5_V Pin=J4-A4_B9
+Added Pin To Net: NetName=USB_5_V Pin=J4-A9_B4
+Added Pin To Net: NetName=USB_5_V Pin=MCU_R_Y-2
+Added Net: Name=USB_5_V
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_Y 0402WGF0000TCE

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCU_PA5 Pin=MCU_ETH_NT_B-2
+Removed Pin From Net: NetName=MCU_PA5 Pin=MCU_U_E-33
+Change Component Designator: OldDesignator=Cupd_a NewDesignator=MCU_C_M
+Change Component Designator: OldDesignator=Cupd_b NewDesignator=MCU_C_N
+Added Pin To Net: NetName=MCU_ETH_SCK Pin=MCU_ETH_NT_B-2
+Added Pin To Net: NetName=MCU_ETH_SCK Pin=MCU_U_E-33

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetCta_d_1 Pin=Rta_e-1
+Removed Pin From Net: NetName=NetCta_d_1 Pin=Rta_f-1
+Change Component DesignItemId : Designator=Rta_e Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF470JTCE
+Change Component DesignItemId : Designator=Rta_f Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF470JTCE
+Change Component Comment : Designator=Rta_e Old Comment=0402WGF1000TCE New Comment=0402WGF470JTCE
+Change Component Comment : Designator=Rta_f Old Comment=0402WGF1000TCE New Comment=0402WGF470JTCE
+Change Component Designator: OldDesignator=Rta_f NewDesignator=Rta_g
+Change Component Description : Designator=Rta_e Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 47R - 1% - 0402
+Change Component Description : Designator=Rta_g Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 47R - 1% - 0402
+Change component parameters: Designator = "Rta_e"; Footprint = "R_0402"; UniqueID = "\DLIRLYYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rta_g"; Footprint = "R_0402"; UniqueID = "\FTFVUIGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"
+Added Component: Designator=Rta_f(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=Rta_h(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCta_d_1 Pin=Rta_f-1
+Added Pin To Net: NetName=NetCta_d_1 Pin=Rta_h-1
+Added Pin To Net: NetName=NetRta_e_1 Pin=Rta_e-1
+Added Pin To Net: NetName=NetRta_e_1 Pin=Rta_f-2
+Added Net: Name=NetRta_e_1
+Added Pin To Net: NetName=NetRta_g_1 Pin=Rta_g-1
+Added Pin To Net: NetName=NetRta_g_1 Pin=Rta_h-2
+Added Net: Name=NetRta_g_1
+Added Member To Class: ClassName=CPU.3 Member=Component Rta_g 0402WGF470JTCE
+Added Member To Class: ClassName=CPU.3 Member=Component Rta_h 0402WGF330JTCE

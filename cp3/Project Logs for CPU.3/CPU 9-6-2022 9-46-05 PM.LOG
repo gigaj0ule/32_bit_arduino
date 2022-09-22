@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=MCU_C_L
+Change Component Designator: OldDesignator=CPU_C_V_V_A NewDesignator=MCU_C_I
+Change Component Designator: OldDesignator=CPU_C_V_V_B NewDesignator=MCU_C_J
+Change Component Designator: OldDesignator=CPU_C_V_V_C NewDesignator=MCU_C_K
+Change Component Designator: OldDesignator=Cta_a NewDesignator=MCU_ETH_C_Q
+Change Component Designator: OldDesignator=Cta_b NewDesignator=MCU_ETH_C_R
+Change Component Designator: OldDesignator=Cta_c NewDesignator=MCU_ETH_C_S
+Change Component Designator: OldDesignator=Cta_d NewDesignator=MCU_ETH_C_T
+Change Component Designator: OldDesignator=Cta_e NewDesignator=MCU_ETH_C_O
+Change Component Designator: OldDesignator=Cta_f NewDesignator=MCU_ETH_C_P
+Change Component Designator: OldDesignator=Dta_a NewDesignator=MCU_ETH_D_A
+Change Component Designator: OldDesignator=Dta_b NewDesignator=MCU_ETH_D_B
+Change Component Designator: OldDesignator=Dta_c NewDesignator=MCU_ETH_D_C
+Change Component Designator: OldDesignator=Dta_d NewDesignator=MCU_ETH_D_D
+Change Component Designator: OldDesignator=Dta_e NewDesignator=MCU_ETH_D_E
+Change Component Designator: OldDesignator=Dta_f NewDesignator=MCU_ETH_D_F
+Change Component Designator: OldDesignator=Dta_g NewDesignator=MCU_ETH_D_G
+Change Component Designator: OldDesignator=Dta_h NewDesignator=MCU_ETH_D_H
+Change Component Designator: OldDesignator=J3 NewDesignator=MCU_J_A
+Change Component Designator: OldDesignator=J4 NewDesignator=MCU_J_B
+Change Component Designator: OldDesignator=J_B NewDesignator=MCU_J_C
+Change Component Designator: OldDesignator=J_B? NewDesignator=MCU_J_D
+Change Component Designator: OldDesignator=Jeth NewDesignator=MCU_J_E
+Change Component Designator: OldDesignator=Rta_a NewDesignator=MCU_ETH_R_K
+Change Component Designator: OldDesignator=Rta_b NewDesignator=MCU_ETH_R_L
+Change Component Designator: OldDesignator=Rta_c NewDesignator=MCU_ETH_R_M
+Change Component Designator: OldDesignator=Rta_e NewDesignator=MCU_ETH_R_N
+Change Component Designator: OldDesignator=Rta_g NewDesignator=MCU_ETH_R_O
+Change Component Designator: OldDesignator=Rta_i NewDesignator=MCU_ETH_R_J
+Change Component Designator: OldDesignator=Rta_j NewDesignator=MCU_ETH_R_I
+Change Component Designator: OldDesignator=Rta_l NewDesignator=MCU_ETH_R_H
+Change Component Designator: OldDesignator=Ta NewDesignator=MCU_ETH_T_A
+Change Net Name : Old Net Name=BUTTON_OC New Net Name=MCU_BUTTON_OC
+Change Net Name : Old Net Name=NetCta_a_2 New Net Name=NetMCU_ETH_C_Q_2
+Change Net Name : Old Net Name=NetCta_b_2 New Net Name=NetMCU_ETH_C_R_2
+Change Net Name : Old Net Name=NetCta_c_2 New Net Name=NetMCU_ETH_C_S_2
+Change Net Name : Old Net Name=NetCta_d_1 New Net Name=NetMCU_ETH_C_T_1
+Change Net Name : Old Net Name=NetCta_e_2 New Net Name=NetMCU_ETH_C_O_2
+Change Net Name : Old Net Name=NetCta_f_2 New Net Name=NetMCU_ETH_C_P_2
+Change Net Name : Old Net Name=NetDta_a_1 New Net Name=NetMCU_ETH_D_A_1
+Change Net Name : Old Net Name=NetRta_j_2 New Net Name=NetMCU_ETH_R_I_2

@@ -1,0 +1,11 @@
+Added Component: Designator=MCU_R_S(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_3V3 Pin=MCU_R_S-2
+Added Pin To Net: NetName=MCU_A1 Pin=MCU_R_M-1
+Added Pin To Net: NetName=MCU_A1 Pin=MCU_R_S-1
+Added Pin To Net: NetName=MCU_A1 Pin=MCU_U_G-2
+Added Net: Name=MCU_A1
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_S 0402WGF1002TCE

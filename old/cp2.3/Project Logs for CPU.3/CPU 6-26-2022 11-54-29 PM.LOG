@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=Ueth_a-43
+Removed Pin From Net: NetName=VCC_3V3 Pin=Ueth_a-44
+Removed Pin From Net: NetName=VCC_3V3 Pin=Ueth_a-45
+Change Component Designator: OldDesignator=Reth0_10 NewDesignator=Reth_e
+Change Component Designator: OldDesignator=Reth0_31 NewDesignator=Reth_c
+Change Component Designator: OldDesignator=Reth0_36 NewDesignator=Reth_b
+Change Component Designator: OldDesignator=Reth0_37 NewDesignator=Reth_a
+Added Component: Designator=Reth_d(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=Reth_d-1
+Change Net Name : Old Net Name=NetReth0_10_2 New Net Name=NetReth_e_2
+Change Net Name : Old Net Name=NetReth0_37_2 New Net Name=NetReth_a_2
+Added Pin To Net: NetName=eth_MODE Pin=Reth_d-2
+Added Pin To Net: NetName=eth_MODE Pin=Ueth_a-43
+Added Pin To Net: NetName=eth_MODE Pin=Ueth_a-44
+Added Pin To Net: NetName=eth_MODE Pin=Ueth_a-45
+Added Net: Name=eth_MODE
+Added Member To Class: ClassName=CPU.3 Member=Component Reth_d 0402WGF1002TCE

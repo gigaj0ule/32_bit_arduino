@@ -1,0 +1,20 @@
+Added Component: Designator=Ceth0_xi(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=Ceth0_xo(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1547"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Ceth0_xi-1
+Added Pin To Net: NetName=eth0_xi Pin=Ceth0_xi-2
+Added Pin To Net: NetName=GND Pin=Ceth0_xo-1
+Added Pin To Net: NetName=eth0_xo Pin=Ceth0_xo-2
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_xi 0402CG120J500NT
+Added Member To Class: ClassName=CPU.3 Member=Component Ceth0_xo 0402CG120J500NT
+Added Member To Class: ClassName=CPU.3 Member=Component U? GD32F103CBT6
+Added Room: Name=CPU.3

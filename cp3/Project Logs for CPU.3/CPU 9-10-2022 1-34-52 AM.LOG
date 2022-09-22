@@ -1,0 +1,10 @@
+Added Component: Designator=MCU_U_H(SOIC-8-P1.27-W3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "?"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C53108"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_GND Pin=MCU_U_H-4
+Added Pin To Net: NetName=MCU_PB7 Pin=MCU_U_H-5
+Added Pin To Net: NetName=MCU_PB6 Pin=MCU_U_H-6
+Added Pin To Net: NetName=MCU_3V3 Pin=MCU_U_H-8
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_U_H ATSHA204A

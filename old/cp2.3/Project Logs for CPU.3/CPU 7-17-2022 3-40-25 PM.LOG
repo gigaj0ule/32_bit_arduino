@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetDta_e_2 Pin=Rta_j-2
+Removed Pin From Net: NetName=NetDta_e_2 Pin=Ta-10
+Added Pin To Net: NetName=NetDta_e_2 Pin=Cta_e-2
+Added Pin To Net: NetName=NetDta_e_2 Pin=Rta_j-1
+Change Net Name : Old Net Name=NetDta_e_2 New Net Name=NetCta_e_2
+Added Pin To Net: NetName=NetRta_j_2 Pin=Rta_j-2
+Added Pin To Net: NetName=NetRta_j_2 Pin=Ta-10
+Added Net: Name=NetRta_j_2

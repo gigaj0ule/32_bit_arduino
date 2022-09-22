@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=eth_V+ Pin=CPU_U_V_V_A-1
+Removed Pin From Net: NetName=eth_V- Pin=CPU_U_V_V_A-2
+Removed Pin From Net: NetName=GND Pin=CPU_U_V_V_A-4
+Removed Pin From Net: NetName=CPU_V_ISO Pin=CPU_U_V_V_A-6
+Removed Member From Class: ClassName=CPU.3 Member=CPU_U_V_V_A

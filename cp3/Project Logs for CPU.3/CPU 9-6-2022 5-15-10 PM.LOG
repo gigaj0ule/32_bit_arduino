@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CPU_5_V Pin=CPU_C_V_V_A-1
+Removed Pin From Net: NetName=CPU_5_V Pin=CPU_C_V_V_B-1
+Removed Pin From Net: NetName=CPU_5_V Pin=CPU_C_V_V_C-1
+Added Pin To Net: NetName=MCU_5_V Pin=CPU_C_V_V_A-1
+Added Pin To Net: NetName=MCU_5_V Pin=CPU_C_V_V_B-1
+Added Pin To Net: NetName=MCU_5_V Pin=CPU_C_V_V_C-1
+Added Net: Name=MCU_5_V

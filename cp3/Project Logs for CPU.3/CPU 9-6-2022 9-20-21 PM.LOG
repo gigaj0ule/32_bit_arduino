@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=GND Pin=C0-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C0-2
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=AVDD Pin=Rta_a-2
+Removed Pin From Net: NetName=AVDD Pin=Rta_b-2
+Removed Pin From Net: NetName=AVDD Pin=Rta_c-2
+Change Component Designator: OldDesignator=C0 NewDesignator=MCU_C_A
+Change Component Designator: OldDesignator=C1 NewDesignator=MCU_C_B
+Change Component Designator: OldDesignator=C2 NewDesignator=MCU_C_C
+Change Component Designator: OldDesignator=C3 NewDesignator=MCU_C_F
+Change Component Designator: OldDesignator=C6 NewDesignator=MCU_C_E
+Change Component Designator: OldDesignator=C7 NewDesignator=MCU_C_D
+Change Component Designator: OldDesignator=C8 NewDesignator=MCU_C_G
+Change Component Designator: OldDesignator=C9 NewDesignator=MCU_C_H
+Change Component Designator: OldDesignator=C10 NewDesignator=MCU_C_R
+Change Component Designator: OldDesignator=Ceth0_8 NewDesignator=MCU_ETH_C_I
+Change Component Designator: OldDesignator=Ceth0_11 NewDesignator=MCU_ETH_C_H
+Change Component Designator: OldDesignator=Ceth0_15 NewDesignator=MCU_ETH_C_G
+Change Component Designator: OldDesignator=Ceth0_17 NewDesignator=MCU_ETH_C_F
+Change Component Designator: OldDesignator=Ceth0_20 NewDesignator=MCU_ETH_C_J
+Change Component Designator: OldDesignator=Ceth0_21 NewDesignator=MCU_ETH_C_E
+Change Component Designator: OldDesignator=Ceth0_22 NewDesignator=MCU_ETH_C_K
+Change Component Designator: OldDesignator=Ceth0_281 NewDesignator=MCU_ETH_C_C
+Change Component Designator: OldDesignator=Ceth0_282 NewDesignator=MCU_ETH_C_D
+Change Component Designator: OldDesignator=Ceth0_xi NewDesignator=MCU_ETH_C_A
+Change Component Designator: OldDesignator=Ceth0_xo NewDesignator=MCU_ETH_C_B
+Change Component Designator: OldDesignator=CPU_LED_B NewDesignator=MCU_LED_B
+Change Component Designator: OldDesignator=CPU_LED_B_R NewDesignator=MCU_LED_R_B
+Change Component Designator: OldDesignator=CPU_LED_G NewDesignator=MCU_LED_G
+Change Component Designator: OldDesignator=CPU_LED_G_R NewDesignator=MCU_LED_R_G
+Change Component Designator: OldDesignator=CPU_LED_R NewDesignator=MCU_LED_R
+Change Component Designator: OldDesignator=CPU_LED_R_R NewDesignator=MCU_LED_R_R
+Change Component Designator: OldDesignator=CPU_LED_Y NewDesignator=MCU_LED_Y
+Change Component Designator: OldDesignator=CPU_LED_Y_R NewDesignator=MCU_LED_R_Y
+Change Component Designator: OldDesignator=CPU_R_F NewDesignator=MCU_R_K
+Change Component Designator: OldDesignator=Cueth_b_a NewDesignator=MCU_ETH_C_M
+Change Component Designator: OldDesignator=Cueth_b_b NewDesignator=MCU_ETH_C_L
+Change Component Designator: OldDesignator=D_CPU_A NewDesignator=MCU_D_A
+Change Component Designator: OldDesignator=D_CPU_B NewDesignator=MCU_D_B
+Change Component Designator: OldDesignator=eth_NTa NewDesignator=MCU_ETH_NT_B
+Change Component Designator: OldDesignator=eth_NTa? NewDesignator=MCU_ETH_NT_A
+Change Component Designator: OldDesignator=eth_NTb NewDesignator=MCU_ETH_NT_C
+Change Component Designator: OldDesignator=eth_NTc NewDesignator=MCU_ETH_NT_D
+Change Component Designator: OldDesignator=L0 NewDesignator=MCU_L_A
+Change Component Designator: OldDesignator=Leth_a NewDesignator=MCU_ETH_L_A
+Change Component Designator: OldDesignator=MCU_R_Y NewDesignator=MCU_R_L
+Change Component Designator: OldDesignator=MCU_R_Z NewDesignator=MCU_R_B
+Change Component Designator: OldDesignator=NTeth_a NewDesignator=MCU_ETH_NT_E
+Change Component Designator: OldDesignator=R0 NewDesignator=MCU_R_F
+Change Component Designator: OldDesignator=R1 NewDesignator=MCU_R_G
+Change Component Designator: OldDesignator=R5 NewDesignator=MCU_R_A
+Change Component Designator: OldDesignator=R7 NewDesignator=MCU_R_H
+Change Component Designator: OldDesignator=R8 NewDesignator=MCU_R_C
+Change Component Designator: OldDesignator=R11 NewDesignator=MCU_R_I
+Change Component Designator: OldDesignator=R12 NewDesignator=MCU_R_J
+Change Component Designator: OldDesignator=Reth0_25 NewDesignator=MCU_ETH_R_G
+Change Component Designator: OldDesignator=Reth0_27 NewDesignator=MCU_ETH_R_F
+Change Component Designator: OldDesignator=Reth_a NewDesignator=MCU_ETH_R_A
+Change Component Designator: OldDesignator=Reth_b NewDesignator=MCU_ETH_R_B
+Change Component Designator: OldDesignator=Reth_c NewDesignator=MCU_ETH_R_C
+Change Component Designator: OldDesignator=Reth_d NewDesignator=MCU_ETH_R_D
+Change Component Designator: OldDesignator=Reth_e NewDesignator=MCU_ETH_R_E
+Change Component Designator: OldDesignator=SW NewDesignator=MCU_SW_A
+Change Component Designator: OldDesignator=U0 NewDesignator=MCU_U_A
+Change Component Designator: OldDesignator=U1 NewDesignator=MCU_U_C
+Change Component Designator: OldDesignator=U? NewDesignator=MCU_U_B
+Change Component Designator: OldDesignator=Ueth_a NewDesignator=MCU_U_E
+Change Component Designator: OldDesignator=Upd NewDesignator=MCU_U_D
+Change Component Designator: OldDesignator=Y0 NewDesignator=MCU_Y_A
+Change Component Designator: OldDesignator=Yeth NewDesignator=MCU_Y_B
+Added Pin To Net: NetName=eth_RX+ Pin=Cta_c-1
+Added Pin To Net: NetName=CC1 Pin=Cupd_a-1
+Added Pin To Net: NetName=CC1 Pin=J4-B5
+Added Pin To Net: NetName=CC1 Pin=J_B-B5
+Added Pin To Net: NetName=CC1 Pin=J_B?-B5
+Added Pin To Net: NetName=VCC_3V3 Pin=MCU_C_A-1
+Added Pin To Net: NetName=GND Pin=MCU_C_A-2
+Added Pin To Net: NetName=VCC_3V3 Pin=MCU_C_B-1
+Added Pin To Net: NetName=GND Pin=MCU_C_B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=MCU_C_C-1
+Added Pin To Net: NetName=GND Pin=MCU_C_C-2
+Added Pin To Net: NetName=GND Pin=MCU_C_D-2
+Added Pin To Net: NetName=GND Pin=MCU_C_E-2
+Added Pin To Net: NetName=CC1 Pin=MCU_R_J-1
+Added Pin To Net: NetName=CC1 Pin=MCU_U_D-1
+Added Pin To Net: NetName=CC1 Pin=MCU_U_D-1
+Added Pin To Net: NetName=CC1 Pin=MCU_U_D-14
+Added Pin To Net: NetName=CC1 Pin=MCU_U_D-14
+Added Pin To Net: NetName=eth_RX+ Pin=MCU_U_E-5
+Added Pin To Net: NetName=eth_RX+ Pin=Rta_e-2
+Change Net Name : Old Net Name=AVDD New Net Name=MCU_ETH_AVDD
+Change Net Name : Old Net Name=CC1 New Net Name=MCU_USB_CC1
+Change Net Name : Old Net Name=CPU_5_V New Net Name=MCU_5V
+Change Net Name : Old Net Name=eth0_intn New Net Name=MCU_ETH_INTN
+Change Net Name : Old Net Name=eth_AVSS New Net Name=MCU_ETH_AVSS
+Change Net Name : Old Net Name=eth_CSn New Net Name=MCU_ETH_CSn
+Change Net Name : Old Net Name=eth_gled New Net Name=MCU_ETH_GLED
+Change Net Name : Old Net Name=eth_MISO New Net Name=MCU_ETH_MISO
+Change Net Name : Old Net Name=eth_MODE New Net Name=MCU_ETH_MODE
+Change Net Name : Old Net Name=eth_MOSI New Net Name=MCU_ETH_MOSI
+Change Net Name : Old Net Name=eth_poe_a New Net Name=MCU_ETH_POE_A
+Change Net Name : Old Net Name=eth_poe_b New Net Name=MCU_ETH_POE_B
+Change Net Name : Old Net Name=eth_RX+ New Net Name=MCU_ETH_RXN
+Change Net Name : Old Net Name=eth_SCK New Net Name=MCU_ETH_SCK
+Change Net Name : Old Net Name=eth_TX+ New Net Name=MCU_ETH_TXP
+Change Net Name : Old Net Name=eth_TX- New Net Name=MCU_ETH_TXN
+Change Net Name : Old Net Name=eth_V+ New Net Name=MCU_ETH_VP
+Change Net Name : Old Net Name=eth_V- New Net Name=MCU_ETH_VN
+Change Net Name : Old Net Name=eth_xi New Net Name=MCU_ETH_XI
+Change Net Name : Old Net Name=eth_xo New Net Name=MCU_ETH_XO
+Change Net Name : Old Net Name=eth_yled New Net Name=MCU_ETH_YLED
+Change Net Name : Old Net Name=GND New Net Name=MCU_GND
+Change Net Name : Old Net Name=NetCeth0_20_1 New Net Name=NetMCU_ETH_C_J_1
+Change Net Name : Old Net Name=NetCeth0_22_2 New Net Name=NetMCU_ETH_C_K_2
+Change Net Name : Old Net Name=NetCPU_LED_B_1 New Net Name=NetMCU_LED_B_1
+Change Net Name : Old Net Name=NetCPU_LED_G_1 New Net Name=NetMCU_LED_G_1
+Change Net Name : Old Net Name=NetCPU_LED_R_1 New Net Name=NetMCU_LED_R_1
+Change Net Name : Old Net Name=NetCPU_LED_Y_2 New Net Name=NetMCU_LED_R_Y_2
+Change Net Name : Old Net Name=NetD_CPU_A_1 New Net Name=NetMCU_D_A_1
+Change Net Name : Old Net Name=NetD_CPU_A_2 New Net Name=NetMCU_D_A_2
+Change Net Name : Old Net Name=NetReth0_25_1 New Net Name=NetMCU_ETH_R_G_1
+Change Net Name : Old Net Name=NetReth0_27_1 New Net Name=NetMCU_ETH_R_F_1
+Change Net Name : Old Net Name=NetReth_a_2 New Net Name=NetMCU_ETH_R_A_2
+Change Net Name : Old Net Name=NetReth_e_2 New Net Name=NetMCU_ETH_R_E_2
+Change Net Name : Old Net Name=NetUpd_12 New Net Name=NetMCU_U_D_12
+Change Net Name : Old Net Name=RD+ New Net Name=MCU_ETH_RDP
+Change Net Name : Old Net Name=RD- New Net Name=MCU_ETH_RDN
+Change Net Name : Old Net Name=TD+ New Net Name=MCU_ETH_TDP
+Change Net Name : Old Net Name=TD- New Net Name=MCU_ETH_TDN
+Change Net Name : Old Net Name=VCC_3V3 New Net Name=MCU_3V3
+Change Net Name : Old Net Name=VDDA New Net Name=MCU_VDDA
+Change Net Name : Old Net Name=VSSA New Net Name=MCU_VSSA
+Added Pin To Net: NetName=eth_AVDD Pin=Rta_a-2
+Added Pin To Net: NetName=eth_AVDD Pin=Rta_b-2
+Added Pin To Net: NetName=eth_AVDD Pin=Rta_c-2
+Added Net: Name=eth_AVDD
+Added Pin To Net: NetName=NetMCU_C_D_1 Pin=MCU_C_D-1
+Added Pin To Net: NetName=NetMCU_C_D_1 Pin=MCU_U_A-31
+Added Net: Name=NetMCU_C_D_1
+Added Pin To Net: NetName=NetMCU_C_E_1 Pin=MCU_C_E-1
+Added Pin To Net: NetName=NetMCU_C_E_1 Pin=MCU_U_A-47
+Added Net: Name=NetMCU_C_E_1

@@ -1,0 +1,5 @@
+Added Component: Designator=NTeth_a(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=eth_AVSS Pin=NTeth_a-1
+Added Pin To Net: NetName=GND Pin=NTeth_a-2
+Added Member To Class: ClassName=CPU.3 Member=Component NTeth_a 0

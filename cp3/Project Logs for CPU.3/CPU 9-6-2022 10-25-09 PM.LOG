@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_C_M-1
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_J_B-B5
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_J_C-B5
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_J_D-B5
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_R_J-1
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_U_D-1
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_U_D-1
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_U_D-14
+Removed Pin From Net: NetName=MCU_USB_CC1 Pin=MCU_U_D-14
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_C_M-1
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_J_B-B5
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_J_C-B5
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_J_D-B5
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_R_J-1
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_U_D-1
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_U_D-1
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_U_D-14
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_U_D-14
+Added Net: Name=MCU_USB_CC2

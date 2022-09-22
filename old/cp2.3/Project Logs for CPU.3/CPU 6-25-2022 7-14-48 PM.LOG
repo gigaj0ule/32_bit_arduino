@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=Ueth0 NewDesignator=Ueth_a
+Added Component: Designator=Ueth_c(CONV_PEME1-S5-S3-S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cui.com/product/dc-dc-converters/isolated/peme1-s-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PEME1-S24-S5-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PEME1-S5-S3-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PEME1-S5-S3-S/CUI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=eth_V+ Pin=Ueth_c-1
+Added Pin To Net: NetName=eth_V- Pin=Ueth_c-2
+Added Pin To Net: NetName=GND Pin=Ueth_c-5
+Added Pin To Net: NetName=VCC_5V Pin=Ueth_c-7
+Added Member To Class: ClassName=CPU.3 Member=Component Ueth_c PEME1-S24-S5-S

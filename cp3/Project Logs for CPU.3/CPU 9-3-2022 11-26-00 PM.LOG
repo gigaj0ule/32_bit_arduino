@@ -1,0 +1,21 @@
+Added Component: Designator=J_B?(DX07S016JA1R1500)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C167321"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J_B?-0
+Added Pin To Net: NetName=GND Pin=J_B?-0
+Added Pin To Net: NetName=GND Pin=J_B?-0
+Added Pin To Net: NetName=GND Pin=J_B?-0
+Added Pin To Net: NetName=GND Pin=J_B?-A1_B12
+Added Pin To Net: NetName=USB_5_V Pin=J_B?-A4_B9
+Added Pin To Net: NetName=CC1 Pin=J_B?-A5
+Added Pin To Net: NetName=USB_DP Pin=J_B?-A6
+Added Pin To Net: NetName=USB_DM Pin=J_B?-A7
+Added Pin To Net: NetName=SWCLK Pin=J_B?-A8
+Added Pin To Net: NetName=USB_5_V Pin=J_B?-A9_B4
+Added Pin To Net: NetName=GND Pin=J_B?-A12_B1
+Added Pin To Net: NetName=CC2 Pin=J_B?-B5
+Added Pin To Net: NetName=USB_DP Pin=J_B?-B6
+Added Pin To Net: NetName=USB_DM Pin=J_B?-B7
+Added Pin To Net: NetName=SWDIO Pin=J_B?-B8
+Added Member To Class: ClassName=CPU.3 Member=Component J_B? 918-418K2023S40001

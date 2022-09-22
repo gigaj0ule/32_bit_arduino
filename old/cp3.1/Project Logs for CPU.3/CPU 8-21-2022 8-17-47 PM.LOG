@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=CPU_LED_B-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=CPU_LED_G-2
+Removed Pin From Net: NetName=GND Pin=CPU_LED_R-2
+Added Pin To Net: NetName=GND Pin=CPU_LED_B-1
+Added Pin To Net: NetName=GND Pin=CPU_LED_G-1
+Added Pin To Net: NetName=GND Pin=CPU_LED_R-1
+Added Pin To Net: NetName=NetCPU_LED_B_2 Pin=CPU_LED_B-2
+Added Pin To Net: NetName=NetCPU_LED_B_2 Pin=CPU_LED_B_R-2
+Added Net: Name=NetCPU_LED_B_2
+Added Pin To Net: NetName=NetCPU_LED_G_2 Pin=CPU_LED_G-2
+Added Pin To Net: NetName=NetCPU_LED_G_2 Pin=CPU_LED_G_R-2
+Added Net: Name=NetCPU_LED_G_2
+Added Pin To Net: NetName=NetCPU_LED_R_2 Pin=CPU_LED_R-2
+Added Pin To Net: NetName=NetCPU_LED_R_2 Pin=CPU_LED_R_R-2
+Added Net: Name=NetCPU_LED_R_2

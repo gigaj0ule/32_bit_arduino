@@ -1,0 +1,8 @@
+Added Component: Designator=Leth_a(L_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=Leth_a-1
+Added Pin To Net: NetName=AVDD Pin=Leth_a-2
+Added Member To Class: ClassName=CPU.3 Member=Component Leth_a SDFL1608S100KTF

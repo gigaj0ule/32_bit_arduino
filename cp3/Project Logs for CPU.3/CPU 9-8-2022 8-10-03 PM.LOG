@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MCU_GND Pin=MCU_U_G-1
+Removed Pin From Net: NetName=MCU_GND Pin=MCU_U_G-2
+Added Component: Designator=MCU_R_M(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=MCU_R_N(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_GND Pin=MCU_R_M-2
+Added Pin To Net: NetName=MCU_GND Pin=MCU_R_N-2
+Added Pin To Net: NetName=NetMCU_R_M_1 Pin=MCU_R_M-1
+Added Pin To Net: NetName=NetMCU_R_M_1 Pin=MCU_U_G-2
+Added Net: Name=NetMCU_R_M_1
+Added Pin To Net: NetName=NetMCU_R_N_1 Pin=MCU_R_N-1
+Added Pin To Net: NetName=NetMCU_R_N_1 Pin=MCU_U_G-1
+Added Net: Name=NetMCU_R_N_1
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_M 0402WGF0000TCE
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_N 0402WGF0000TCE

@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=SW Old DesignItemId=TS-1187A-C-C-B New DesignItemId=TS-1187A-B-A-B
+Change Component Comment : Designator=SW Old Comment=TS-1187A-C-C-B New Comment=TS-1187A-B-A-B
+Change component parameters: Designator = "SW"; Footprint = "TS-1187A-C-C-B"; UniqueID = "\CNIDIRTL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C318884"; VariantName = "[No Variations]"

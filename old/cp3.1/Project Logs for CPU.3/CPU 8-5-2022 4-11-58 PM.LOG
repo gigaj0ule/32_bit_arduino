@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=Ceth0_xo Old Footprint=C_0402 New Footprint=C_0402
+Change Physical Footprint: Designator=CPU_U_V_V_A Old Footprint=PQME1 New Footprint=PQME1
+Change Physical Footprint: Designator=Dta_g Old Footprint=SOD-323 New Footprint=SOD-323
+Change Physical Footprint: Designator=Jeth Old Footprint=TE_2-406549-1 New Footprint=TE_2-406549-1
+Change Physical Footprint: Designator=R0 Old Footprint=R_0402 New Footprint=R_0402
+Change Physical Footprint: Designator=U1 Old Footprint=SOT-223-3 New Footprint=SOT-223-3

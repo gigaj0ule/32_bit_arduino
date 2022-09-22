@@ -1,0 +1,5 @@
+Added Component: Designator=eth_NTa?(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=^PB12_SS2 Pin=eth_NTa?-1
+Added Pin To Net: NetName=eth_CSn Pin=eth_NTa?-2
+Added Member To Class: ClassName=CPU.3 Member=Component eth_NTa? 0

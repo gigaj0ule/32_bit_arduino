@@ -1,0 +1,12 @@
+Added Component: Designator=Rcpu_f(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Rcpu_f-1
+Added Pin To Net: NetName=VCC_5V Pin=Rcpu_f-2
+Added Member To Class: ClassName=CPU.3 Member=Component Rcpu_f 0402WGF0000TCE

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=CPU_LED_B-1
+Removed Pin From Net: NetName=GND Pin=CPU_LED_G-1
+Removed Pin From Net: NetName=GND Pin=CPU_LED_R-1
+Change Component DesignItemId : Designator=U0 Old DesignItemId=GD32F405RGT6 New DesignItemId=STM32F405RGT6
+Change Component Comment : Designator=U0 Old Comment=GD32F405RGT6 New Comment=STM32F405RGT6
+Change component parameters: Designator = "U0"; Footprint = "QFP-64-P0.5MM"; UniqueID = "\UJRXQBXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/179c87d5c3d4f257/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15742"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/179c87d5c3d4f257/"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15742"; VariantName = "F1"
+Added Pin To Net: NetName=VCC_3V3 Pin=CPU_LED_B-2
+Added Pin To Net: NetName=VCC_3V3 Pin=CPU_LED_G-2
+Added Pin To Net: NetName=VCC_3V3 Pin=CPU_LED_R-2
+Added Pin To Net: NetName=NetCPU_LED_B_1 Pin=CPU_LED_B-1
+Added Pin To Net: NetName=NetCPU_LED_B_1 Pin=CPU_LED_B_R-2
+Added Net: Name=NetCPU_LED_B_1
+Added Pin To Net: NetName=NetCPU_LED_G_1 Pin=CPU_LED_G-1
+Added Pin To Net: NetName=NetCPU_LED_G_1 Pin=CPU_LED_G_R-2
+Added Net: Name=NetCPU_LED_G_1
+Added Pin To Net: NetName=NetCPU_LED_R_1 Pin=CPU_LED_R-1
+Added Pin To Net: NetName=NetCPU_LED_R_1 Pin=CPU_LED_R_R-2
+Added Net: Name=NetCPU_LED_R_1

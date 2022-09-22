@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCUMIGAN
 
 [Document5]
 DocumentPath=..\..\component_libaries\STANDARD_PARTS.PcbLib
@@ -161,9 +161,11 @@ UniqueID=A3342880-DEF3-4E96-8861-EC601E65960E
 Description=F4
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=U?|UniqueId=\KJTFUSRL|Kind=1|AlternatePart= 
-Variation2=Designator=U2|UniqueId=\FCRLQXTN|Kind=1|AlternatePart= 
+VariationCount=4
+Variation1=Designator=MCU_U_B|UniqueId=\KJTFUSRL|Kind=1|AlternatePart= 
+Variation2=Designator=MCU_U_D|UniqueId=\FCRLQXTN|Kind=1|AlternatePart= 
+Variation3=Designator=MCU_J_C|UniqueId=\RDNGAPAF|Kind=1|AlternatePart= 
+Variation4=Designator=MCU_J_D|UniqueId=\IHFRQTUB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -171,10 +173,81 @@ UniqueID=B5911F66-AE11-4601-AD4E-3B2B593AB81F
 Description=F1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=U0|UniqueId=\UJRXQBXH|Kind=1|AlternatePart= 
-Variation2=Designator=U2|UniqueId=\FCRLQXTN|Kind=1|AlternatePart= 
+VariationCount=4
+Variation1=Designator=MCU_U_A|UniqueId=\UJRXQBXH|Kind=1|AlternatePart= 
+Variation2=Designator=MCU_U_D|UniqueId=\FCRLQXTN|Kind=1|AlternatePart= 
+Variation3=Designator=MCU_J_D|UniqueId=\IHFRQTUB|Kind=1|AlternatePart= 
+Variation4=Designator=MCU_J_C|UniqueId=\RDNGAPAF|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueID=A3342880-DEF3-4E96-8861-EC601E65960E
+Description=F4_USB_ONLY
+AllowFabrication=0
+ParameterCount=0
+VariationCount=57
+Variation1=Designator=MCU_U_B|UniqueId=\KJTFUSRL|Kind=1|AlternatePart= 
+Variation2=Designator=MCU_U_D|UniqueId=\FCRLQXTN|Kind=1|AlternatePart= 
+Variation3=Designator=MCU_ETH_C_A|UniqueId=\MDDCJACW|Kind=1|AlternatePart= 
+Variation4=Designator=MCU_ETH_C_F|UniqueId=\EVFGFPKV|Kind=1|AlternatePart= 
+Variation5=Designator=MCU_ETH_C_C|UniqueId=\LUNFCAGV|Kind=1|AlternatePart= 
+Variation6=Designator=MCU_ETH_C_J|UniqueId=\FBNCXLQV|Kind=1|AlternatePart= 
+Variation7=Designator=MCU_ETH_C_M|UniqueId=\LISRRVSH|Kind=1|AlternatePart= 
+Variation8=Designator=MCU_ETH_C_H|UniqueId=\JUTKJFUN|Kind=1|AlternatePart= 
+Variation9=Designator=MCU_ETH_D_B|UniqueId=\VRKBDAMV|Kind=1|AlternatePart= 
+Variation10=Designator=MCU_ETH_C_L|UniqueId=\YMILGWYR|Kind=1|AlternatePart= 
+Variation11=Designator=MCU_ETH_C_S|UniqueId=\KTAHTVSV|Kind=1|AlternatePart= 
+Variation12=Designator=MCU_ETH_C_G|UniqueId=\IMEUXFQQ|Kind=1|AlternatePart= 
+Variation13=Designator=MCU_ETH_C_O|UniqueId=\FCAXWHUL|Kind=1|AlternatePart= 
+Variation14=Designator=MCU_ETH_C_E|UniqueId=\WJIMPFVR|Kind=1|AlternatePart= 
+Variation15=Designator=MCU_ETH_C_R|UniqueId=\QGKUBVGV|Kind=1|AlternatePart= 
+Variation16=Designator=MCU_ETH_D_A|UniqueId=\TDMUSDNA|Kind=1|AlternatePart= 
+Variation17=Designator=MCU_ETH_C_K|UniqueId=\RYOPHIMC|Kind=1|AlternatePart= 
+Variation18=Designator=MCU_ETH_C_P|UniqueId=\LUUEMUWC|Kind=1|AlternatePart= 
+Variation19=Designator=MCU_ETH_C_I|UniqueId=\BNMXERKQ|Kind=1|AlternatePart= 
+Variation20=Designator=MCU_ETH_C_T|UniqueId=\EFOAUIYG|Kind=1|AlternatePart= 
+Variation21=Designator=MCU_ETH_C_Q|UniqueId=\EJTYTRNN|Kind=1|AlternatePart= 
+Variation22=Designator=MCU_ETH_C_B|UniqueId=\QWAPWJBU|Kind=1|AlternatePart= 
+Variation23=Designator=MCU_ETH_C_D|UniqueId=\FIMURGDQ|Kind=1|AlternatePart= 
+Variation24=Designator=MCU_ETH_NT_E|UniqueId=\WFBODTPL|Kind=1|AlternatePart= 
+Variation25=Designator=MCU_ETH_D_E|UniqueId=\PIGLYSEN|Kind=1|AlternatePart= 
+Variation26=Designator=MCU_ETH_R_K|UniqueId=\SURBVTRV|Kind=1|AlternatePart= 
+Variation27=Designator=MCU_ETH_D_F|UniqueId=\MADOTSVY|Kind=1|AlternatePart= 
+Variation28=Designator=MCU_ETH_T_A|UniqueId=\BXBUUQQF|Kind=1|AlternatePart= 
+Variation29=Designator=MCU_ETH_D_H|UniqueId=\BGWENRYI|Kind=1|AlternatePart= 
+Variation30=Designator=MCU_ETH_R_I|UniqueId=\LELMNBID|Kind=1|AlternatePart= 
+Variation31=Designator=MCU_ETH_R_H|UniqueId=\RPBETYLJ|Kind=1|AlternatePart= 
+Variation32=Designator=MCU_ETH_D_D|UniqueId=\WIAKKTPU|Kind=1|AlternatePart= 
+Variation33=Designator=MCU_ETH_R_G|UniqueId=\AOOPGELY|Kind=1|AlternatePart= 
+Variation34=Designator=MCU_ETH_R_N|UniqueId=\DLIRLYYX|Kind=1|AlternatePart= 
+Variation35=Designator=MCU_ETH_NT_B|UniqueId=\MUSXHBWJ|Kind=1|AlternatePart= 
+Variation36=Designator=MCU_ETH_R_F|UniqueId=\MQMXKHGI|Kind=1|AlternatePart= 
+Variation37=Designator=MCU_ETH_R_B|UniqueId=\EDJBBHML|Kind=1|AlternatePart= 
+Variation38=Designator=MCU_ETH_R_J|UniqueId=\ETWFVDVO|Kind=1|AlternatePart= 
+Variation39=Designator=MCU_ETH_R_D|UniqueId=\TOPKQFFE|Kind=1|AlternatePart= 
+Variation40=Designator=MCU_ETH_R_C|UniqueId=\DGBRRQKJ|Kind=1|AlternatePart= 
+Variation41=Designator=MCU_ETH_NT_C|UniqueId=\FQEWQRJG|Kind=1|AlternatePart= 
+Variation42=Designator=MCU_ETH_R_A|UniqueId=\XQUWCNOG|Kind=1|AlternatePart= 
+Variation43=Designator=MCU_ETH_L_A|UniqueId=\VYALFUKO|Kind=1|AlternatePart= 
+Variation44=Designator=MCU_ETH_R_O|UniqueId=\FTFVUIGF|Kind=1|AlternatePart= 
+Variation45=Designator=MCU_ETH_R_L|UniqueId=\GLJTILHH|Kind=1|AlternatePart= 
+Variation46=Designator=MCU_ETH_R_M|UniqueId=\NBTCSUFH|Kind=1|AlternatePart= 
+Variation47=Designator=MCU_ETH_NT_D|UniqueId=\EDSRVKWN|Kind=1|AlternatePart= 
+Variation48=Designator=MCU_ETH_NT_A|UniqueId=\IDMPNJDC|Kind=1|AlternatePart= 
+Variation49=Designator=MCU_ETH_D_C|UniqueId=\FWGWMQQH|Kind=1|AlternatePart= 
+Variation50=Designator=MCU_ETH_R_E|UniqueId=\XBTSNWPC|Kind=1|AlternatePart= 
+Variation51=Designator=MCU_ETH_D_G|UniqueId=\TQQFLJRC|Kind=1|AlternatePart= 
+Variation52=Designator=MCU_U_F|UniqueId=\EUATDWFK|Kind=1|AlternatePart= 
+Variation53=Designator=MCU_Y_B|UniqueId=\RTDVVSRD|Kind=1|AlternatePart= 
+Variation54=Designator=MCU_U_E|UniqueId=\IQJELMUI|Kind=1|AlternatePart= 
+Variation55=Designator=MCU_J_E|UniqueId=\RFCIAUOV|Kind=1|AlternatePart= 
+Variation56=Designator=MCU_J_B|UniqueId=\OSNOFXCD|Kind=1|AlternatePart= 
+Variation57=Designator=MCU_J_C|UniqueId=\RDNGAPAF|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CPU.3\Design Rule Check - CPU.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -1156,240 +1229,276 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
-ComponentLibIdentifierKind0=Any
-ComponentLibraryIdentifier0=
-ComponentDesignItemID0=
-ComponentSymbolReference0=H1102NLT
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=JLC_PCB.SchLib
+ComponentDesignItemID0=0402B223K500NT
+ComponentSymbolReference0=0402B223K500NT
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=JLC_PCB.SchLib
-ComponentDesignItemID1=0402B223K500NT
-ComponentSymbolReference1=0402B223K500NT
+ComponentDesignItemID1=0402B682K500NT
+ComponentSymbolReference1=0402B682K500NT
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=JLC_PCB.SchLib
-ComponentDesignItemID2=0402B682K500NT
-ComponentSymbolReference2=0402B682K500NT
+ComponentDesignItemID2=0402CG101J500NT
+ComponentSymbolReference2=0402CG101J500NT
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=JLC_PCB.SchLib
-ComponentDesignItemID3=0402CG101J500NT
-ComponentSymbolReference3=0402CG101J500NT
+ComponentDesignItemID3=0402CG120J500NT
+ComponentSymbolReference3=0402CG120J500NT
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=JLC_PCB.SchLib
-ComponentDesignItemID4=0402CG120J500NT
-ComponentSymbolReference4=0402CG120J500NT
+ComponentDesignItemID4=0402WGF0000TCE
+ComponentSymbolReference4=0402WGF0000TCE
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=JLC_PCB.SchLib
-ComponentDesignItemID5=0402WGF0000TCE
-ComponentSymbolReference5=0402WGF0000TCE
+ComponentDesignItemID5=0402WGF1001TCE
+ComponentSymbolReference5=0402WGF1001TCE
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=JLC_PCB.SchLib
-ComponentDesignItemID6=0402WGF1000TCE
-ComponentSymbolReference6=0402WGF1000TCE
+ComponentDesignItemID6=0402WGF1002TCE
+ComponentSymbolReference6=0402WGF1002TCE
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=JLC_PCB.SchLib
-ComponentDesignItemID7=0402WGF1001TCE
-ComponentSymbolReference7=0402WGF1001TCE
+ComponentDesignItemID7=0402WGF1004TCE
+ComponentSymbolReference7=0402WGF1004TCE
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=JLC_PCB.SchLib
-ComponentDesignItemID8=0402WGF1002TCE
-ComponentSymbolReference8=0402WGF1002TCE
+ComponentDesignItemID8=0402WGF100JTCE
+ComponentSymbolReference8=0402WGF100JTCE
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=JLC_PCB.SchLib
-ComponentDesignItemID9=0402WGF1004TCE
-ComponentSymbolReference9=0402WGF1004TCE
+ComponentDesignItemID9=0402WGF1202TCE
+ComponentSymbolReference9=0402WGF1202TCE
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=JLC_PCB.SchLib
-ComponentDesignItemID10=0402WGF100JTCE
-ComponentSymbolReference10=0402WGF100JTCE
+ComponentDesignItemID10=0402WGF1500TCE
+ComponentSymbolReference10=0402WGF1500TCE
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=JLC_PCB.SchLib
-ComponentDesignItemID11=0402WGF1200TCE
-ComponentSymbolReference11=0402WGF1200TCE
+ComponentDesignItemID11=0402WGF1501TCE
+ComponentSymbolReference11=0402WGF1501TCE
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=JLC_PCB.SchLib
-ComponentDesignItemID12=0402WGF1202TCE
-ComponentSymbolReference12=0402WGF1202TCE
+ComponentDesignItemID12=0402WGF2200TCE
+ComponentSymbolReference12=0402WGF2200TCE
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=JLC_PCB.SchLib
-ComponentDesignItemID13=0402WGF1501TCE
-ComponentSymbolReference13=0402WGF1501TCE
+ComponentDesignItemID13=0402WGF220JTCE
+ComponentSymbolReference13=0402WGF220JTCE
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=JLC_PCB.SchLib
-ComponentDesignItemID14=0402WGF2200TCE
-ComponentSymbolReference14=0402WGF2200TCE
+ComponentDesignItemID14=0402WGF3300TCE
+ComponentSymbolReference14=0402WGF3300TCE
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=JLC_PCB.SchLib
-ComponentDesignItemID15=0402WGF220JTCE
-ComponentSymbolReference15=0402WGF220JTCE
+ComponentDesignItemID15=0402WGF499JTCE
+ComponentSymbolReference15=0402WGF499JTCE
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=JLC_PCB.SchLib
-ComponentDesignItemID16=0402WGF470JTCE
-ComponentSymbolReference16=0402WGF470JTCE
+ComponentDesignItemID16=0402WGF5101TCE
+ComponentSymbolReference16=0402WGF5101TCE
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=JLC_PCB.SchLib
-ComponentDesignItemID17=0402WGF5101TCE
-ComponentSymbolReference17=0402WGF5101TCE
+ComponentDesignItemID17=0402WGF750JTCE
+ComponentSymbolReference17=0402WGF750JTCE
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=JLC_PCB.SchLib
-ComponentDesignItemID18=19-217/BHC-ZL1M2RY/3T
-ComponentSymbolReference18=19-217/BHC-ZL1M2RY/3T
+ComponentDesignItemID18=0603WAF820JT5E
+ComponentSymbolReference18=0603WAF820JT5E
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=JLC_PCB.SchLib
-ComponentDesignItemID19=19-217/GHC-YR1S2/3T
-ComponentSymbolReference19=19-217/GHC-YR1S2/3T
+ComponentDesignItemID19=1206B102K202NT
+ComponentSymbolReference19=1206B102K202NT
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=JLC_PCB.SchLib
-ComponentDesignItemID20=2N7002
-ComponentSymbolReference20=2N7002
+ComponentDesignItemID20=19-217/BHC-ZL1M2RY/3T
+ComponentSymbolReference20=19-217/BHC-ZL1M2RY/3T
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=JLC_PCB.SchLib
-ComponentDesignItemID21=918-418K2023S40001
-ComponentSymbolReference21=918-418K2023S40001
+ComponentDesignItemID21=19-217/GHC-YR1S2/3T
+ComponentSymbolReference21=19-217/GHC-YR1S2/3T
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=JLC_PCB.SchLib
-ComponentDesignItemID22=AO3401A
-ComponentSymbolReference22=AO3401A
+ComponentDesignItemID22=19-21UYC/S530-A4/TR8
+ComponentSymbolReference22=19-21UYC/S530-A4/TR8
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=JLC_PCB.SchLib
-ComponentDesignItemID23=CL05A105KA5NQNC
-ComponentSymbolReference23=CL05A105KA5NQNC
+ComponentDesignItemID23=1N4148WS
+ComponentSymbolReference23=1N4148WS
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=JLC_PCB.SchLib
-ComponentDesignItemID24=CL05A106MQ5NUNC
-ComponentSymbolReference24=CL05A106MQ5NUNC
+ComponentDesignItemID24=2-406549-1
+ComponentSymbolReference24=2-406549-1
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=JLC_PCB.SchLib
-ComponentDesignItemID25=CL05B103KB5NNNC
-ComponentSymbolReference25=CL05B103KB5NNNC
+ComponentDesignItemID25=918-418K2023S40001
+ComponentSymbolReference25=918-418K2023S40001
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=JLC_PCB.SchLib
-ComponentDesignItemID26=CL05B104KO5NNNC
-ComponentSymbolReference26=CL05B104KO5NNNC
+ComponentDesignItemID26=CL05A105KA5NQNC
+ComponentSymbolReference26=CL05A105KA5NQNC
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=JLC_PCB.SchLib
-ComponentDesignItemID27=CL21A106KAYNNNE
-ComponentSymbolReference27=CL21A106KAYNNNE
+ComponentDesignItemID27=CL05A106MQ5NUNC
+ComponentSymbolReference27=CL05A106MQ5NUNC
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=JLC_PCB.SchLib
-ComponentDesignItemID28=FUSB302BMPX
-ComponentSymbolReference28=FUSB302BMPX
+ComponentDesignItemID28=CL05B103KB5NNNC
+ComponentSymbolReference28=CL05B103KB5NNNC
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=JLC_PCB.SchLib
-ComponentDesignItemID29=GD32F103CBT6
-ComponentSymbolReference29=GD32F103CBT6
+ComponentDesignItemID29=CL05B104KO5NNNC
+ComponentSymbolReference29=CL05B104KO5NNNC
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=JLC_PCB.SchLib
-ComponentDesignItemID30=GD32F405RGT6
-ComponentSymbolReference30=GD32F405RGT6
+ComponentDesignItemID30=CL21A106KAYNNNE
+ComponentSymbolReference30=CL21A106KAYNNNE
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=JLC_PCB.SchLib
-ComponentDesignItemID31=HT7533-1
-ComponentSymbolReference31=HT7533-1
+ComponentDesignItemID31=FUSB302BMPX
+ComponentSymbolReference31=FUSB302BMPX
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=JLC_PCB.SchLib
-ComponentDesignItemID32=KT-0603R
-ComponentSymbolReference32=KT-0603R
+ComponentDesignItemID32=GD32F103CBT6
+ComponentSymbolReference32=GD32F103CBT6
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
 ComponentLibraryIdentifier33=JLC_PCB.SchLib
-ComponentDesignItemID33=NET_TIE
-ComponentSymbolReference33=NET_TIE
+ComponentDesignItemID33=GD32F405RGT6
+ComponentSymbolReference33=GD32F405RGT6
 ComponentUpdate33=1
 ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
 ComponentLibraryIdentifier34=JLC_PCB.SchLib
-ComponentDesignItemID34=NGFF_MALE_B
-ComponentSymbolReference34=NGFF_MALE_B
+ComponentDesignItemID34=H1102NLT
+ComponentSymbolReference34=H1102NLT
 ComponentUpdate34=1
 ComponentIsDeviceSheet34=0
 ComponentLibIdentifierKind35=Library Name And Type
 ComponentLibraryIdentifier35=JLC_PCB.SchLib
-ComponentDesignItemID35=SDFL1608S100KTF
-ComponentSymbolReference35=SDFL1608S100KTF
+ComponentDesignItemID35=HT7533-1
+ComponentSymbolReference35=HT7533-1
 ComponentUpdate35=1
 ComponentIsDeviceSheet35=0
 ComponentLibIdentifierKind36=Library Name And Type
 ComponentLibraryIdentifier36=JLC_PCB.SchLib
-ComponentDesignItemID36=TS-1187A-C-C-B
-ComponentSymbolReference36=TS-1187A-C-C-B
+ComponentDesignItemID36=KT-0603R
+ComponentSymbolReference36=KT-0603R
 ComponentUpdate36=1
 ComponentIsDeviceSheet36=0
 ComponentLibIdentifierKind37=Library Name And Type
 ComponentLibraryIdentifier37=JLC_PCB.SchLib
-ComponentDesignItemID37=W5500
-ComponentSymbolReference37=W5500
+ComponentDesignItemID37=NET_TIE
+ComponentSymbolReference37=NET_TIE
 ComponentUpdate37=1
 ComponentIsDeviceSheet37=0
 ComponentLibIdentifierKind38=Library Name And Type
 ComponentLibraryIdentifier38=JLC_PCB.SchLib
-ComponentDesignItemID38=X50328MSB2GI
-ComponentSymbolReference38=X50328MSB2GI
+ComponentDesignItemID38=NGFF_MALE_B
+ComponentSymbolReference38=NGFF_MALE_B
 ComponentUpdate38=1
 ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=JLC_PCB.SchLib
+ComponentDesignItemID39=PQME1-S24-S5-S
+ComponentSymbolReference39=PQME1-S24-S5-S
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name And Type
+ComponentLibraryIdentifier40=JLC_PCB.SchLib
+ComponentDesignItemID40=SDFL1608S100KTF
+ComponentSymbolReference40=SDFL1608S100KTF
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name And Type
+ComponentLibraryIdentifier41=JLC_PCB.SchLib
+ComponentDesignItemID41=TS-1187A-B-A-B
+ComponentSymbolReference41=TS-1187A-B-A-B
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name And Type
+ComponentLibraryIdentifier42=JLC_PCB.SchLib
+ComponentDesignItemID42=W5500
+ComponentSymbolReference42=W5500
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name And Type
+ComponentLibraryIdentifier43=JLC_PCB.SchLib
+ComponentDesignItemID43=X322525MOB4SI
+ComponentSymbolReference43=X322525MOB4SI
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name And Type
+ComponentLibraryIdentifier44=JLC_PCB.SchLib
+ComponentDesignItemID44=X50328MSB2GI
+ComponentSymbolReference44=X50328MSB2GI
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1421,44 +1530,52 @@ ParameterName7=ComponentLink3Description
 ParameterUpdate7=1
 ParameterName8=ComponentLink3URL
 ParameterUpdate8=1
-ParameterName9=Description
+ParameterName9=CUI_purchase_URL
 ParameterUpdate9=1
-ParameterName10=FLASH Size (Prog) (kB)
+ParameterName10=Description
 ParameterUpdate10=1
-ParameterName11=I/Os (High Current)
+ParameterName11=FLASH Size (Prog) (kB)
 ParameterUpdate11=1
-ParameterName12=Internal RAM Size (kB)
+ParameterName12=I/Os (High Current)
 ParameterUpdate12=1
-ParameterName13=JLC Availability
+ParameterName13=If
 ParameterUpdate13=1
-ParameterName14=LCSC Part #
+ParameterName14=Internal RAM Size (kB)
 ParameterUpdate14=1
-ParameterName15=Library Reference
+ParameterName15=JLC Availability
 ParameterUpdate15=1
-ParameterName16=Manufacturer
+ParameterName16=LCSC Part #
 ParameterUpdate16=1
-ParameterName17=Manufacturer P/N
+ParameterName17=Library Reference
 ParameterUpdate17=1
-ParameterName18=MF
+ParameterName18=Manufacturer
 ParameterUpdate18=1
-ParameterName19=MP
+ParameterName19=Manufacturer P/N
 ParameterUpdate19=1
-ParameterName20=Operating Frequency(F) (Processor speed) (MHz)
+ParameterName20=MF
 ParameterUpdate20=1
-ParameterName21=Package
+ParameterName21=MP
 ParameterUpdate21=1
-ParameterName22=Price
+ParameterName22=Operating Frequency(F) (Processor speed) (MHz)
 ParameterUpdate22=1
-ParameterName23=Purchase-URL
+ParameterName23=Package
 ParameterUpdate23=1
-ParameterName24=SnapEDA_Link
+ParameterName24=PIV
 ParameterUpdate24=1
-ParameterName25=Value
+ParameterName25=Price
 ParameterUpdate25=1
-ParameterName26=VOut
+ParameterName26=Purchase-URL
 ParameterUpdate26=1
-ParameterName27=WVDC
+ParameterName27=SnapEDA_Link
 ParameterUpdate27=1
+ParameterName28=Trr
+ParameterUpdate28=1
+ParameterName29=Value
+ParameterUpdate29=1
+ParameterName30=VOut
+ParameterUpdate30=1
+ParameterName31=WVDC
+ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1468,47 +1585,62 @@ ModelType1=PCBLIB
 ModelName1=C_0805
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=D_0603
+ModelName2=C_1206
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=DX07S016JA1R1500
+ModelName3=D_0603
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=L_0603
+ModelName4=DX07S016JA1R1500
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=NET_TIE
+ModelName5=L_0603
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=NGFF_MALE_B
+ModelName6=NET_TIE
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=QFN-14-P0.5MM
+ModelName7=NGFF_MALE_B
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=QFP-48-P0.5MM
+ModelName8=PQME1
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=QFP-64-P0.5MM
+ModelName9=QFN-14-P0.5MM
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=R_0402
+ModelName10=QFP-48-P0.5MM
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SOT-223-3
+ModelName11=QFP-64-P0.5MM
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=TO-236AB
+ModelName12=R_0402
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=TS-1187A-C-C-B
+ModelName13=R_0603
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=XFMR_H1102NLT
+ModelName14=SOD-323
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=YSX530GA
+ModelName15=SOT-223-3
 ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=TE_2-406549-1
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=TS-1187A-C-C-B
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=X322512MSB4SI
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=XFMR_H1102NLT
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=YSX530GA
+ModelUpdate20=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
