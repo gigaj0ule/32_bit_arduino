@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MCU_PA4 Pin=MCU_ETH_NT_A-1
+Removed Pin From Net: NetName=MCU_ETH_CSn Pin=MCU_ETH_NT_A-2
+Removed Member From Class: ClassName=CPU.3 Member=MCU_ETH_NT_A
+Added Component: Designator=MCU_R_CSA(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_PA4 Pin=MCU_R_CSA-1
+Added Pin To Net: NetName=MCU_ETH_CSn Pin=MCU_R_CSA-2
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_CSA 0402WGF0000TCE
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_U_F AG9705-2BR

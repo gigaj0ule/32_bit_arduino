@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MCU_PB2 Pin=MCU_J_A-28
+Removed Pin From Net: NetName=MCU_PB2 Pin=MCU_U_A-28
+Removed Pin From Net: NetName=MCU_PB2 Pin=MCU_U_B-20
+Change Net Name : Old Net Name=MCU_PB2 New Net Name=NetMCU_D_A_1
+Added Pin To Net: NetName=MCU_PB2 Pin=MCU_D_A-2
+Added Pin To Net: NetName=MCU_PB2 Pin=MCU_J_A-28
+Added Pin To Net: NetName=MCU_PB2 Pin=MCU_R_B-2
+Added Pin To Net: NetName=MCU_PB2 Pin=MCU_U_A-28
+Added Pin To Net: NetName=MCU_PB2 Pin=MCU_U_B-20
+Added Net: Name=MCU_PB2

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetMCU_D_A_1 Pin=MCU_J_A-28
+Added Pin To Net: NetName=NetMCU_D_A_1 Pin=MCU_U_A-28
+Added Pin To Net: NetName=NetMCU_D_A_1 Pin=MCU_U_B-20
+Change Net Name : Old Net Name=NetMCU_D_A_1 New Net Name=MCU_PB2
+Added Pin To Net: NetName=NetMCU_R_A_1 Pin=MCU_R_A-1
+Added Pin To Net: NetName=NetMCU_R_A_1 Pin=MCU_SW_A-1
+Added Pin To Net: NetName=NetMCU_R_A_1 Pin=MCU_SW_A-1
+Added Net: Name=NetMCU_R_A_1

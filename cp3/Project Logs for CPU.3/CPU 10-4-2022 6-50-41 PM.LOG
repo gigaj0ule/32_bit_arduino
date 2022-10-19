@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MCU_PC12 Pin=MCU_R_CSB-1
+Added Pin To Net: NetName=MCU_PB3 Pin=MCU_R_CSB-1

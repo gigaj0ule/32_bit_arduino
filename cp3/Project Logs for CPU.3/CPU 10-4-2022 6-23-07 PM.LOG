@@ -1,0 +1,8 @@
+Added Component: Designator=MCU_R_CSB(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_PC12 Pin=MCU_R_CSB-1
+Added Pin To Net: NetName=MCU_ETH_CSn Pin=MCU_R_CSB-2
+Added Member To Class: ClassName=CPU.3 Member=Component MCU_R_CSB 0402WGF0000TCE
