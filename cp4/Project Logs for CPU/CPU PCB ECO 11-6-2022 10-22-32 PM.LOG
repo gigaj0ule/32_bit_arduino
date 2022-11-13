@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=MCU_ETH_NT_B Old DesignItemId=NET_TIE New DesignItemId=0402WGF0000TCE
+Change Component Footprint: Designator=MCU_ETH_NT_B Old Footprint=NET_TIE New Footprint=R_0402
+Change Component Description : Designator=MCU_ETH_NT_B Old Description=R - Net Tie New Description=R - RESISTOR - SMD - 0R - 1% - 0402
+Change component parameters: Designator = "MCU_ETH_NT_B"; Footprint = "R_0402"; UniqueID = "\MUSXHBWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "F4_USB_ONLY"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "F4_USB_ONLY"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "F4_USB_ONLY"

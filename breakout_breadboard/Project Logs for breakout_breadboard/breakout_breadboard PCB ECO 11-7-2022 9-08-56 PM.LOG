@@ -1,0 +1,10 @@
+Added Component: Designator=JSWD_2(HDR_FEM_2X5P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C92270"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDCK Pin=JSWD_2-2
+Added Pin To Net: NetName=SWDIO Pin=JSWD_2-4
+Added Pin To Net: NetName=GND Pin=JSWD_2-5
+Added Pin To Net: NetName=GND Pin=JSWD_2-6
+Added Member To Class: ClassName=breakout_breadboard Member=Component JSWD_2 DS1023-2*5SF11
+Added Room: Name=breakout_breadboard

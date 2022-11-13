@@ -2,6 +2,130 @@
 FileName = breakout_breadboard.GBR
 AutoAperture = True
 *************************************************************
+Generating : Keep-Out Layer
+      File : breakout_breadboard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : breakout_breadboard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : breakout_breadboard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : breakout_breadboard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D14
+    D15
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : breakout_breadboard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : breakout_breadboard.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Board Outline (M30)
+      File : breakout_breadboard.GM30
+
+    Adding Layer      : Board Outline (M30)
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : breakout_breadboard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
 Generating : Top Pad Master
       File : breakout_breadboard.GPT
 
@@ -13,10 +137,10 @@ Generating : Top Pad Master
 Used DCodes :
     D14
     D15
-    D23
     D24
     D25
     D26
+    D27
 *************************************************************
 
 *************************************************************
@@ -50,56 +174,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : breakout_breadboard.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : breakout_breadboard.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : breakout_breadboard.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : breakout_breadboard.GBL
 
@@ -110,82 +184,10 @@ Generating : Bottom Layer
 
 Used DCodes :
     D12
-    D23
     D24
     D25
     D26
     D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : breakout_breadboard.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : breakout_breadboard.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : breakout_breadboard.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board Outline (M30)
-      File : breakout_breadboard.GM30
-
-    Adding Layer      : Board Outline (M30)
-
-
-Used DCodes :
     D28
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : breakout_breadboard.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D25
-    D26
 *************************************************************
 
