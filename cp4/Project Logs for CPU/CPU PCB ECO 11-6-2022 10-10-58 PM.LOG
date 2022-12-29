@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=MCU_PB3 Pin=MCU_R_CSB-1
-Added Pin To Net: NetName=MCU_PA15 Pin=MCU_R_CSB-1
-Change Net Name : Old Net Name=MCU_PA15 New Net Name=MCU_PA15/SPI1_NSS_AF/SS1
-Change Net Name : Old Net Name=MCU_PB3 New Net Name=MCU_PB3/SPI1_SCK_AF/SS1
-Change Class Name : Old Net Name=CPU.3 New Net Name=CPU
-Added Room: Name=CPU
