@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=CPU_ETH_VN_R New Net Name=CPU_ETH_VP
+Change Net Name : Old Net Name=CPU_ETH_VP_R New Net Name=CPU_ETH_VN
+Added Member To Class: ClassName=CPU Member=Component MCU_C_K CL05A106MQ5NUNC

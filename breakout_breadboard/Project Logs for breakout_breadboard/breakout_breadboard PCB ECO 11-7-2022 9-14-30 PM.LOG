@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=SWDIO Pin=JSWD_2-4
-Removed Pin From Net: NetName=GND Pin=JSWD_2-5
-Added Pin To Net: NetName=SWDIO Pin=JSWD_2-2
-Added Pin To Net: NetName=GND Pin=JSWD_2-3
-Added Pin To Net: NetName=GND Pin=JSWD_2-4

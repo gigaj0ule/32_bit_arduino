@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CPU_5_V_SW Pin=MCU_J_A-7
+Added Pin To Net: NetName=MCU_USB_CC1 Pin=MCU_J_A-5
+Added Pin To Net: NetName=MCU_USB_CC2 Pin=MCU_J_A-7

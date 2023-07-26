@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MCU_5V Pin=MCU_C_J-1
+Removed Pin From Net: NetName=MCU_GND Pin=MCU_C_J-2
+Removed Member From Class: ClassName=CPU Member=MCU_C_J

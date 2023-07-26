@@ -1,2 +1,3 @@
-# cp.two
-M.2 CPU
+# arduino m.2
+
+arduino development board

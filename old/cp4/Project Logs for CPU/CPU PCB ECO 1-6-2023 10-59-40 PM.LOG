@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=MCU_R_A Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF3300TCE
+Change Component Comment : Designator=MCU_R_A Old Comment=0402WGF1000TCE New Comment=0402WGF3300TCE
+Change Component Description : Designator=MCU_R_A Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 330R - 1% - 0402
+Change component parameters: Designator = "MCU_R_A"; Footprint = "R_0402"; UniqueID = "\USLPBWWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"

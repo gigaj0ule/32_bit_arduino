@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=MCU_U_G Old DesignItemId=24LC16BT-I/SN New DesignItemId=24LC512T-I/SN
+Change Component Comment : Designator=MCU_U_G Old Comment=24LC16BT-I/SN New Comment=24LC512T-I/SN
+Change Component Description : Designator=MCU_U_G Old Description=U - IC - EEPROM 16k New Description=U - IC - EEPROM 512k
+Change component parameters: Designator = "MCU_U_G"; Footprint = "SOIC-8-P1.27-W3.5"; UniqueID = "\MRIIAJBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C52088"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage"; Value = "512k"; VariantName = "[No Variations]"

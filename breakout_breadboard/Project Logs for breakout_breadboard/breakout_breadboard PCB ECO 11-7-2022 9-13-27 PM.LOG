@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=SWDCK Pin=JSWD_2-2
-Removed Pin From Net: NetName=GND Pin=JSWD_2-6
-Added Pin To Net: NetName=SWDCK Pin=JSWD_2-6

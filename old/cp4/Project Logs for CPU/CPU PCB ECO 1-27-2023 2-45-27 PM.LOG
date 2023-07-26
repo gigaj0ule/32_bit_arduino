@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MCU_PA6 Pin=MCU_ETH_NT_C-1
+Removed Pin From Net: NetName=MCU_PA7 Pin=MCU_ETH_NT_D-1
+Removed Member From Class: ClassName=CPU Member=MCU_ETH_NT_C
+Removed Member From Class: ClassName=CPU Member=MCU_ETH_NT_D
+Added Pin To Net: NetName=MCU_PA6 Pin=MCU_U_E-34
+Added Pin To Net: NetName=MCU_PA7 Pin=MCU_U_E-35
+Change Net Name : Old Net Name=MCU_PA6 New Net Name=MCU_ETH_MISO
+Change Net Name : Old Net Name=MCU_PA7 New Net Name=MCU_ETH_MOSI
