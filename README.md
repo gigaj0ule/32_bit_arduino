@@ -1,3 +1,3 @@
 # arduino m.2
 
-arduino development board
+32 bit arduino development board 
