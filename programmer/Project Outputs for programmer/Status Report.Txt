@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [CONFIG1] of PCB Document [programmer.PcbDoc]
+   Generated File[Pick Place for programmer(CONFIG1).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:16:20 PM On 4/25/2024

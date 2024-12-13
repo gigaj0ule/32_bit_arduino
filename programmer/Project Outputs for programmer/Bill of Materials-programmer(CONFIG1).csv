@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LCSC Part #,LibRef,Quantity
+
+"0402WGF0000TCE","R - RESISTOR - SMD - 0R - 1% - 0402","CC1A, CC1B, CLK, DIO","R_0402","C17168","0402WGF0000TCE","4"
+"918-418K2023S40001","J - JACK - USB - Type C - Recepticle - SMT - 90°","J1","DX07S016JA1R1500","C167321","918-418K2023S40001","1"
+"1054440011","J - JACK - Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right-Angle, Surface Mount, 0.76m Gold (Au) Plating, Tape and Reel","J_OUT","MOLEX_1054440011","C561769","1054440011","1"
+"DS1023-2*5SF11","J - JACK - PIN_HEADER 2X5P","J_PROG, J_PROG2","HDR_FEM_2X5P","C125068","DS1023-2*5SF11","2"

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CPU.PcbDoc   3/7/2024  5:39:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CPU-RoundHoles.TXT
+ASCII SlotHoles File : CPU-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             142       PTH        0.00mm (0.00inch)
+T2      0.55mm (22mil)                                            Slot              4         PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+T4      3.2mm (126mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              149
+
+Total Processing Time (hh:mm:ss) : 00:00:00
